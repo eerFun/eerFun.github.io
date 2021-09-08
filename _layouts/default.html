@@ -1,0 +1,102 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3EP7KLCYVP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-3EP7KLCYVP');
+</script>
+
+
+
+
+<body>
+  <main>
+    {% include anchor_headings.html html=content anchorBody="#" %}
+  </main>
+
+
+
+  <script>
+    function setTheme(theme) {
+      if (theme === "dark") {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        window.localStorage.setItem('theme', 'dark');
+        document.getElementById("theme-toggle").classList.add('sun');
+        document.getElementById("theme-toggle").classList.remove('moon');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'light');
+        window.localStorage.setItem('theme', 'light');
+        document.getElementById("theme-toggle").classList.add('moon');
+        document.getElementById("theme-toggle").classList.remove('sun');
+      }
+    }
+
+    let theme = localStorage.getItem('theme');
+
+    theme = theme || (window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light' : 'light');
+
+    setTheme(theme);
+
+    function modeSwitcher() {
+      let currentMode = document.documentElement.getAttribute('data-theme');
+
+      if (currentMode === "dark") {
+        setTheme('light');
+      } else {
+        setTheme('dark');
+      }
+    }
+  </script>
+
+
+
+</body>
+
+<footer class="social-footer">
+  <div class="social-footer-icons">
+    <a href="https://github.com/eerFun" title="Github profile" target="_blank" rel="noopener noreferrer"><i
+        class="fa fa-github" aria-hidden="true"></i></a>
+    <a href="https://www.linkedin.com/in/eerfun" title="Linkedin profile" target="_blank" rel="noopener noreferrer"><i
+        class="fa fa-linkedin" aria-hidden="true"></i></a>
+    <a href="https://t.me/eerFun" title="Telegram profile" target="_blank" rel="noopener noreferrer"><i
+        class="fa fa-telegram" aria-hidden="true"></i></a>
+    <a href="mailto:eivazi.erfan@gmail.com" title="Email" rel="noopener noreferrer"><i
+        class="fa fa-envelope" aria-hidden="true"></i></a>
+    <a href="{{site.url}}{{ site.baseurl }}/atom.xml" title="Feed RSS" target="_blank" rel="noopener noreferrer"><i
+        class="fa fa-rss" aria-hidden="true"></i></a>
+  </div>
+  <div>
+    <span>© <small>2021 Erfan Eivazi</small></span>
+    <span><small>&lt;/&gt; Powered by
+      <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/">Github</a>.</small>
+    </span>
+  </div>
+</footer>
+
+
+{% if page.url == '/' %}
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
+<script>
+  var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('search-results'),
+    json: '{{ site.url }}{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+    noResultsText: 'No results found..',
+    limit: 10,
+    fuzzy: true,
+  })
+</script>
+{% endif %}
+
+
+</html>
