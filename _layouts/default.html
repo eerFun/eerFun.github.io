@@ -5,7 +5,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3EP7KLCYVP"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -13,14 +13,14 @@ layout: compress
   gtag('js', new Date());
 
   gtag('config', 'G-3EP7KLCYVP');
-</script>
+</script> -->
 
 
 
 
 <body>
   <main>
-    {% include anchor_headings.html html=content anchorBody="#" %}
+    {% include anchor_headings.html html=content anchorBody="#" beforeHeading=true anchorClass="anchor" %}
   </main>
 
 
