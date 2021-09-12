@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "resume export -t jsonresume-theme-paper resume.html && node scripts/build.js && echo '---\nlayout: resume\n---\n' | cat - resume.html > temp && mv temp resume.html && bundle exec jekyll build",
-    "start": "bundle exec jekyll serve --config _config_localhost.yml"
+    "build": "resume export -t jsonresume-theme-paper resume.html && echo '---\nlayout: resume\n---\n' | cat - resume.html > temp && mv temp resume.html && bundle exec jekyll build",
+    "start": "bundle exec jekyll serve"
   },
   "dependencies": {
     "html-pdf": "^3.0.1",
