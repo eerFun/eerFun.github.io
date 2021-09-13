@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "lastModified": "2021-01-01"
+  },
+  "basics": {
+    "name": "Erfan Eivazi",
+    "label": "Web Developer and Technical Adviser",
+    "picture": "/me-small.jpg",
+    "email": "eivazi.erfan@gmail.com",
+    "phone": "",
+    "website": "eerFun.github.io",
+    "summary": "A full-stack developer experienced in Nodejs, Express.js, MongoDB, and ES6+",
+    "location": {
+      "address": "",
+      "postalCode": " ",
+      "city": "Tehran",
+      "countryCode": "IR"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "eerFun",
+        "url": "https://github.com/eerFun"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "eerFun",
+        "url": "https://www.linkedin.com/in/eerfun/"
+      },
+      {
+        "network": "Telegram",
+        "username": "eerFun",
+        "url": "https://t.me/eerFun"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Fudev Group",
+      "position": "Co-founder & Backend Developer",
+      "website": "https://fudev-group.com/",
+      "startDate": "2020-01-21",
+      "endDate": "2021-06-21",
+      "summary": "Backend developer in IranHR project, and Team director in some projects",
+      "highlights": ["Nodejs | MongoDB | Elasticsearch | JWT"]
+    },
+    {
+      "company": "FATA (Iranian Cyber Police)",
+      "position": "IT Specialist",
+      "website": "",
+      "startDate": "2019-04-21",
+      "endDate": "2020-02-27",
+      "summary": "Compulsory Service",
+      "highlights": []
+    },
+    {
+      "company": "Futech Group",
+      "position": "Backend Developer",
+      "website": "https://futechgroup.ir/",
+      "startDate": "2018-06-22",
+      "endDate": "2019-04-20",
+      "summary": "Database design and development of Paradise Hub management system",
+      "highlights": ["Nodejs | MongoDB | Socket.io | Session-Cookie | Chat-System | Ticketing-System | Reservation | Payment | Role-Based"]
+    },
+    {
+      "company": "Maktab Sharif",
+      "position": "Bootcamp Trainee",
+      "website": "https://maktabsharif.ir/",
+      "startDate": "2018-01-20",
+      "endDate": "2018-06-22",
+      "summary": "A Web Development Bootcamp",
+      "highlights": []
+    },
+    {
+      "company": "Kinetic Fabrication Studio",
+      "position": "Embedded System Programmer",
+      "website": "https://kfabstudio.ir/",
+      "startDate": "2017-10-23",
+      "endDate": "2017-12-21",
+      "summary": "Program a Smart Wall which has plates tracing the people moving in front of it",
+      "highlights": [
+        "C | AVR | Arduino | IR-Sensor | Servo-Motors | LED-lighting"
+      ]
+    },
+    {
+      "company": "Parto Tajhiz Besat",
+      "position": "Software Developer",
+      "website": "http://www.rghp.ir/",
+      "startDate": "2017-06-22",
+      "endDate": "2017-08-23",
+      "summary": "Add some monitoring and controlling features for system control software",
+      "highlights": [
+        "C# | .Net | WinForm | USB-Port | USART | RS-232"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Shahrood University of Technology",
+      "url": "https://shahroodut.ac.ir/en/",
+      "area": "Robotics Engineering",
+      "studyType": "Bachelor's Degree (BE)",
+      "startDate": "2013-09-23",
+      "endDate": "2018-01-21"
+    },
+    {
+      "institution": "Allameh Helli High School (NODET)",
+      "url": "https://institution.com/",
+      "area": "Mathematics and Physics",
+      "studyType": "Diploma",
+      "startDate": "2009-09-23",
+      "endDate": "2013-06-21"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        "Mongoose",
+        "Passport",
+        "Multer",
+        "EJS",
+        "Web Socket",
+        "RESTful",
+        "APIs",
+        "Middleware",
+        "JWT",
+        "Session-Cookie",
+        "Access Control (RBAC)"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Proficient",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "DOM",
+        "AJAX",
+        "JSON",
+        "SPA",
+        "jQuery",
+        "Bootstrap",
+        "Flexbox",
+        "AngularJS 1.x",
+        "Vue",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Competent",
+      "keywords": [
+        "MongoDB, and other NoSQL DBs",
+        "MySQL, and other SQL DBs",
+        "Elasticsearch",
+        "Redis",
+        "phpMyAdmin",
+        "Workbench",
+        "ERD",
+        "Database Design"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Advanced Beginner",
+      "keywords": [
+        "Git",
+        "npm",
+        "yarn",
+        "Jira",
+        "Trello",
+        "Slack",
+        "PM2",
+        "Linux Terminal",
+        "Ubuntu",
+        "Docker",
+        "VMware",
+        "Apache Tomcat",
+        "Nginx",
+        "XAMPP"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced Beginner",
+      "keywords": [
+        "C",
+        "Visual C++",
+        "MFC",
+        "DLL",
+        "Object-Oriented Programming",
+        "Functional Programming",
+        "Matlab",
+        "Python",
+        "AVR",
+        "ATMega32",
+        "ESP8266",
+        "Arduino",
+        "Raspberry Pi",
+        "PLC Siemens S7 300",
+        "VHDL (FPGA)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian (Farsi)",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Upper-Intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+  ]
+}
