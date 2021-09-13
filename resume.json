@@ -9,10 +9,10 @@
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
     "phone": "",
-    "website": "eerFun.ir",
+    "website": "eerFun.github.io",
     "summary": "A full-stack developer experienced in Nodejs, Express.js, MongoDB, and ES6+",
     "location": {
-      "address": "Tehran, Tehranpars",
+      "address": "",
       "postalCode": " ",
       "city": "Tehran",
       "countryCode": "IR"
@@ -219,7 +219,7 @@
     },
     {
       "language": "English",
-      "fluency": "Upper-Intermediate (B2)"
+      "fluency": "Upper-Intermediate"
     }
   ],
   "interests": [],
