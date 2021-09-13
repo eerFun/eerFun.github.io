@@ -10,6 +10,3 @@ _site
 .obsidian
 favicon_io.zip
 node_modules
-_posts/*
-!_posts/2021-09-09-test.md
-build.js

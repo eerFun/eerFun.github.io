@@ -1,23 +1,22 @@
 ---
 layout: post
-title: title
-description: What is the difference between various font formats?
-summary: What is the difference between various font formats?
-tags: git cheatsheet
+title: Draft Template
+description: description for SEO
+summary: summary not used yet
+tags: tag1 tag2
 ---
 
-1. toc
++ toc
 {:toc}
 
 What is the difference 
 
-# Is this a header
+# This is main header {#main-id}
 
-### por this one
+## sub header
 
-#### and if it is a 
 Is this a paragraph?
-* {:.cls} This `item `has the class "cls".
+* {:.cls} This `item` has the class "cls".
   Here continues the above paragraph.
 
 > Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90's. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi. 
@@ -32,7 +31,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-# Header 2 {#lsd}
+# Header 2
 paraf
 * list 1 item 1
     * list 1 item 2 (indent 1 space)
@@ -46,7 +45,7 @@ paraf
 
 VHS roof party waistcoat cold-pressed, `snippet.CodeExample();` master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.
 
-You can also mail me: <http://www.erfun.com>
+You can also mail me: <http://www.eerfun.github.io>
 
 First level
 ======
