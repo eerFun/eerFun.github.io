@@ -41,7 +41,7 @@
       "position": "Co-founder & Backend Developer",
       "website": "https://fudev-group.com/",
       "startDate": "2020-01-21",
-      "endDate": "2021-06-21",
+      "endDate": "present",
       "summary": "Backend developer in IranHR project, and Team director in some projects",
       "highlights": ["Nodejs | MongoDB | Elasticsearch | JWT"]
     },
@@ -61,7 +61,7 @@
       "startDate": "2018-06-22",
       "endDate": "2019-04-20",
       "summary": "Database design and development of Paradise Hub management system",
-      "highlights": ["Nodejs | MongoDB | Socket.io | Session-Cookie | Chat-System | Ticketing-System | Reservation | Payment | Role-Based"]
+      "highlights": ["Nodejs | MongoDB | Socket.IO | Session-Cookie | Chat-System | Ticketing-System | Reservation | Payment | Role-Based"]
     },
     {
       "company": "Maktab Sharif",
@@ -185,7 +185,7 @@
         "Ubuntu",
         "Docker",
         "VMware",
-        "Apache Tomcat",
+        "Apache HTTP Server",
         "Nginx",
         "XAMPP"
       ]
