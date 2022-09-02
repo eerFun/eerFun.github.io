@@ -4,17 +4,28 @@ layout: default
 <section id="intro">
     <div class="flex-row-start">
         <a href="/"><img src="me-small.jpg" alt="eerFun" id="my-pic"></a>
-        <h1>Hey👋, I'm Erfan. And, here is my digital notebook</h1>
+        <h1>Hey👋, This is Erfan. And, here is my digital notebook</h1>
         <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
     </div>
     <div class="bio">
-        <p>I'm a web developer. It's been a while I'm focusing on backend technologies: <strong>Nodejs</strong>, <strong>Expressjs</strong>, <strong>MongoDB</strong>, <strong>Socket.IO</strong>, and <strong>ES6+ JavaScript</strong>.</p>
-	    <p>I'm experienced in designing, developing, and deploying <strong>web applications</strong>, especially management dashboards. I'm trying to study more about best practice in coding and share my experience <a href="#Blog">here</a>.</p>
-        <p>It's so interesting for me to contribute to <strong>open-source</strong> projects on <a href="https://github.com/eerFun">Github</a>. As well as, I'm interested in developing <strong>IoTs</strong> for fun.</p>
-        <p>Please feel free to contact me by <a href="mailto:eivazi.erfan@gmail.com">eivazi.erfan@gmail.com</a>. Also, I'm pretty much available on Telegram by <a href="https://t.me/eerFun">@eerFun</a> username.</p>
-        <p>At last, there is my <a href="/resume">résumé</a> for more details.</p>
+        <p>I've started programming with <strong>C</strong> since 2009. In 2017, I went through the Web world, and fully
+            immerse myself in <strong>JavaScript</strong> technologies.</p>
+        <p>Now, I'm a full stack <strong>web developer</strong> that prefer to work as a <strong>server side</strong>
+            developer with <strong>Express</strong> or <strong>NestJS</strong>, which is a progressive
+            <strong>Node.js</strong> framework, and write my code in <strong>TypeScript</strong>. For operating system,
+            my first choice is
+            <strong>Linux Mint</strong> or <strong>Ubuntu</strong> because of its stability, rich repository and active community.
+        </p>
+        <p>It's so interesting for me to contribute on <strong>open-source</strong> projects
+            on <a href="https://github.com/eerFun">Github</a> whenever I have leisure time or be confronted with an
+            issue while I'm using the library. Moreover, developing
+            <strong>IoTs</strong> and programming <strong>embedded systems</strong> is an enjoyable hobby for me.
+        </p>
+        <p>Please feel free to contact me by <a href="mailto:eivazi.erfan@gmail.com">eivazi.erfan@gmail.com</a>. Also,
+            I'm pretty much available on Telegram by <a href="https://t.me/eerFun">@eerFun</a> username.</p>
+        <p>At last, you can check my <strong><a href="/resume">résumé</a></strong> for more details.</p>
     </div>
 </section>
 
@@ -40,7 +51,7 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-		<a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a>
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
         </li>
         {% endfor %}

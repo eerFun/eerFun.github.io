@@ -42,16 +42,16 @@
       "website": "https://inproc.ir/",
       "startDate": "2021-11-21",
       "endDate": "present",
-      "summary": "I mostly focus on server-side development in GPNet5 project which is a GIS web application for designing and analyzing gas pipelines",
+      "summary": "I mostly focus on server-side development in GPNet5 project which is a GIS web application for simulating and analyzing gas pipelines",
       "highlights": [".Net 5+ | C# 9+ | Clean Architecture | MediatR | Dependency Injection | MSSQL Server | LINQ | Microservice | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | Turf | GIS | GeoServer | OpenLayers | Swagger UI | Azure DevOps"]
     },
     {
-      "company": "Future Development Group (formerly FuTech Group)",
+      "company": "FuDev Group (formerly FuTech Group)",
       "position": "Co-founder & Backend Developer",
       "website": "https://fudev.ir/",
       "startDate": "2018-06-22",
       "endDate": "2021-11-21",
-      "summary": "Backend developer in IranHR project team, Architecture designer and developer of Paradise Hub CRM system, and Team director in some small projects.",
+      "summary": "Backend developer in IranHR project team, Architecture designer and developer of Paradise Hub CRM system, and Team director in some small projects",
       "highlights": ["Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based"]
     },
     {
