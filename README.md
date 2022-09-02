@@ -1,5 +1,5 @@
 # eerFun.github.io
-Here is [**eerFun**](https://eerFun.github.io) - My Digital Notebook.
+This is [**eerFun Blog**](https://eerFun.github.io) - My Digital Notebook.
 
 This is a minimal Jekyll blog powered from [Gesko](https://github.com/P0WEX/Gesko) and **customized** for my purpose.
 ## Installation
