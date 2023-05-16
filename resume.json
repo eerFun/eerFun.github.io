@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "1.2.0",
-    "lastModified": "2022-09-01"
+    "version": "1.3.0",
+    "lastModified": "2023-05"
   },
   "basics": {
     "name": "Erfan Eivazi",
@@ -10,11 +10,11 @@
     "email": "eivazi.erfan@gmail.com",
     "phone": "",
     "website": "eerFun.github.io",
-    "summary": "A full-stack web developer experienced in JS/TS techs",
+    "summary": "A Web Developer and Software Engineer",
     "location": {
       "address": "",
       "postalCode": " ",
-      "city": "Tehran",
+      "city": "Tehran, Iran",
       "countryCode": "IR"
     },
     "profiles": [
@@ -38,28 +38,28 @@
   "work": [
     {
       "company": "Intelligent Petro Processors",
-      "position": "Full Stack Web Developer",
+      "position": "Senior Web Developer",
       "website": "https://inproc.ir/",
-      "startDate": "2021-11-21",
+      "startDate": "2021-11",
       "endDate": "present",
-      "summary": "I mostly focus on server-side development in GPNet5 project which is a GIS web application for simulating and analyzing gas pipelines",
-      "highlights": [".Net 5+ | C# 9+ | Clean Architecture | MediatR | Dependency Injection | MSSQL Server | LINQ | Microservice | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | Turf | GIS | GeoServer | OpenLayers | Swagger UI | Azure DevOps"]
+      "summary": "I mostly focus on server-side development in GPNet5 project which is a Web-based GIS engineering software for designing, analyzing and simulating gas pipelines networks",
+      "highlights": [".Net 5+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"]
     },
     {
       "company": "FuDev Group (formerly FuTech Group)",
       "position": "Co-founder & Backend Developer",
       "website": "https://fudev.ir/",
-      "startDate": "2018-06-22",
-      "endDate": "2021-11-21",
-      "summary": "Backend developer in IranHR project team, Architecture designer and developer of Paradise Hub CRM system, and Team director in some small projects",
-      "highlights": ["Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based"]
+      "startDate": "2018-06",
+      "endDate": "2021-11",
+      "summary": "I worked as a backend developer in IranHR project team, an architecture designer and developer of Paradise-Hub CRM project, and a team director in some small projects",
+      "highlights": ["Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based Authorization"]
     },
     {
       "company": "Maktab Sharif",
       "position": "Bootcamp Attendee",
       "website": "https://maktabsharif.ir/",
-      "startDate": "2018-01-20",
-      "endDate": "2018-06-22",
+      "startDate": "2018-01",
+      "endDate": "2018-06",
       "summary": "A Full Stack Web Development Bootcamp",
       "highlights": ["HTML5 | CSS3 | JavaScript | jQuery | Bootstrap | AngularJS | Node.js | Express | EJS | MongoDB | MySQL | Git"]
     },
@@ -67,9 +67,9 @@
       "company": "Kinetic Fabrication Studio",
       "position": "Embedded System Programmer",
       "website": "https://kfabstudio.ir/",
-      "startDate": "2017-10-23",
-      "endDate": "2017-12-21",
-      "summary": "I programmed a Smart Wall which has got plates tracking the people moving in front of it",
+      "startDate": "2017-10",
+      "endDate": "2017-12",
+      "summary": "I programmed a Smart Wall which was made the plates tracking the people moving in front of it",
       "highlights": [
         "C | AVR | Arduino | IR-Sensor | Servo-Motors | LED-lighting"
       ]
@@ -78,9 +78,9 @@
       "company": "Parto Tajhiz Besat",
       "position": "Software Developer",
       "website": "http://www.rghp.ir/",
-      "startDate": "2017-06-22",
-      "endDate": "2017-08-23",
-      "summary": "I tried to add some monitoring and controlling features for their system control software",
+      "startDate": "2017-06",
+      "endDate": "2017-08",
+      "summary": "I added some monitoring and controlling features for their control system software",
       "highlights": [
         "C# | .Net Framework | Windows Forms | USB-Port | USART | RS-232"
       ]
@@ -93,16 +93,16 @@
       "url": "https://shahroodut.ac.ir/en/",
       "area": "Robotics Engineering",
       "studyType": "Bachelor's Degree (BE)",
-      "startDate": "2013-09-23",
-      "endDate": "2018-01-21"
+      "startDate": "2013-09",
+      "endDate": "2018-01"
     },
     {
       "institution": "Allameh Helli 4 High School (NODET)",
       "url": "https://institution.com/",
       "area": "Mathematics and Physics",
       "studyType": "Diploma",
-      "startDate": "2009-09-23",
-      "endDate": "2013-06-21"
+      "startDate": "2009-09",
+      "endDate": "2013-06"
     }
   ],
   "awards": [],
@@ -112,37 +112,45 @@
       "name": "Backend Development",
       "level": "Expert",
       "keywords": [
-        "NestJS",
         "Node.js",
         "Express",
-        "Mongoose",
-        "Passport",
-        "Multer",
-        "EJS",
+        "NestJS",
+        ".Net 5+",
+        "C# 9+",
+        "RESTful APIs",
         "Web Socket",
-        "RESTful",
-        "APIs",
+        "EJS",
         "Middleware",
-        "JWT",
-        "Session-Cookie",
-        "Access Control (RBAC)"
+        "JWT Authentication",
+        "Session-Cookie Authentication",
+        "Role-Based Authorization (RBAC)",
+        "Passport",
+        "RabbitMQ",
+        "CQRS Pattern",
+        "Dependency Injection",
+        "Microservices",
+        "Clean Architecture",
+        "Onion Architecture"
       ]
     },
     {
       "name": "Frontend Development",
       "level": "Proficient",
       "keywords": [
-        "Angular",
+        "HTML5",
+        "CSS3",
+        "JavaScript ES6+",
         "TypeScript",
-        "JavaScript",
+        "Angular 9+",
+        "Bootstrap",
         "RxJS",
         "Kendo UI",
-        "Bootstrap",
         "jQuery",
+        "SCSS",
+        "Responsive Web Design",
         "Flexbox",
-        "HTML",
-        "CSS",
-        "Responsive Design"
+        "CSS Grid",
+        "CSS Animations"
       ]
     },
     {
@@ -153,7 +161,9 @@
         "Mongoose",
         "MySQL",
         "MSSQL Server",
+        "SQL",
         "LINQ",
+        "TypeORM",
         "Elasticsearch",
         "Redis",
         "phpMyAdmin",
@@ -188,9 +198,9 @@
       "name": "Programming",
       "level": "competent",
       "keywords": [
-        "C",
+        "C/C++",
         "C#",
-        "Visual C++",
+        "Java",
         "MFC",
         "DLL",
         "Object-Oriented Programming",
