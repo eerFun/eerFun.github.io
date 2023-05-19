@@ -11,12 +11,6 @@
     "phone": "",
     "website": "eerFun.github.io",
     "summary": "A Web Developer and Software Engineer",
-    "location": {
-      "address": "",
-      "postalCode": " ",
-      "city": "Tehran, Iran",
-      "countryCode": "IR"
-    },
     "profiles": [
       {
         "network": "Github",
@@ -42,7 +36,7 @@
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
-      "summary": "I mostly focus on server-side development in GPNet5 project which is a Web-based GIS engineering software for designing, analyzing and simulating gas pipelines networks",
+      "summary": "I mostly work on server-side development in GPNet5 project which is a Web-based GIS engineering software for designing, analyzing and simulating gas pipelines networks",
       "highlights": [".Net 5+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"]
     },
     {

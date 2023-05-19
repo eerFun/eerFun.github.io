@@ -1,8 +1,11 @@
 {
   "scripts": {
-    "build": "npx resume export -t jsonresume-theme-paper resume.html && echo '---\nlayout: resume\n---\n' | cat - resume.html > temp && mv temp resume.html && bundle exec jekyll build",
+    "export-resume": "npx resume export -t jsonresume-theme-paper ErfanEivazi.html",
+    "build-resume-win": "npm run export-resume && (echo --- & echo layout: resume & echo --- & echo.) > resume.html && type ErfanEivazi.html >> resume.html",
+    "build-resume": "npm run export-resume && echo '---\nlayout: resume\n---\n' | cat - ErfanEivazi.html > resume.html",
+    "build": "bundle exec jekyll build",
     "start": "bundle exec jekyll serve --drafts",
-    "pdf-help": "echo \"Just open `resume.html` file with double click, modify image address and then press `ctrl+P` to create pdf file and save it.\""
+    "help": "echo \"Just open `ErfanEivazi.html` file with double click, modify image address and then press `ctrl+P` to create pdf file and save it.\""
   },
   "dependencies": {
     "html-pdf": "^3.0.1",
