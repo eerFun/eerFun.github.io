@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": "1.4.0",
-    "lastModified": "2026-05"
+    "lastModified": "2023-05"
   },
   "basics": {
     "name": "Erfan Eivazi",
@@ -10,7 +10,7 @@
     "email": "eivazi.erfan@gmail.com",
     "phone": "",
     "website": "eerFun.github.io",
-    "summary": "Senior Software Engineer with 8+ years of experience in backend-oriented system design and development.\n Skilled in building scalable and maintainable systems using microservices, clean architecture, and modern .NET technologies.\n Deeply involved in code quality practices, including code reviews, refactoring, and enforcing engineering standards.\n Experienced in working across multiple products, designing cross‑service integrations, and contributing to CI/CD workflows in Agile/Scrum environments.",
+    "summary": "Software Engineer",
     "profiles": [
       {
         "network": "Github",
@@ -32,40 +32,31 @@
   "work": [
     {
       "company": "Intelligent Petro Processors (INPROC)",
-      "position": "Senior Software Engineer | Lead Backend Developer",
+      "position": "Backend Software Engineer",
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
-      "summary": "A company specializing in engineering simulation and analysis software for gas pipeline networks, leveraging web-based GIS technology",
+      "summary": "Engineering simulation and analysis software company",
       "highlights": [
-        " Lead Backend Developer for GPNet5 project, a web-based GIS engineering software for designing, analyzing, and simulating gas pipeline networks, handling dynamic and static pressure-flow analysis.",
-        "Spearheaded server-side development using .NET 5+, C#, implementing Clean Architecture and CQRS Pattern for robust and maintainable backend services.",
-        "Designed and developed microservices architecture, utilizing NestJS, TypeORM, and RabbitMQ for efficient inter-service communication and asynchronous processing.",
-        "Managed and optimized MSSQL Server databases, leveraging LINQ for data access and manipulation.",
-        "Developed and integrated frontend components using Angular 9+, TypeScript, RxJS, and Kendo UI, ensuring seamless user experience.",
-        "Implemented and utilized GIS functionalities and OGC Standards (WFS, WMS, WMTS) with OpenLayers for spatial data visualization and analysis.",
-        "Proficient in DevOps practices with Azure DevOps for CI/CD pipelines and collaborative development.",
-        "Experience with GeoServer for managing and publishing geospatial data.",
-        "Techs: .Net 5+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"
+        "I mostly work on server-side development in GPNet5 project which is a Web-based GIS engineering software for designing, analyzing and simulating gas pipelines networks",
+        "Technologies: .Net 5+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"
       ]
     },
     {
-      "company": "FuDev (Future Development) Group",
-      "position": "Software Developer | Backend Engineer | Co-founder",
+      "company": "Fudev Group (formerly FuTech Group)",
+      "position": "Backend Web Developer & Co-founder",
       "website": "https://fudev.ir/",
       "startDate": "2018-06",
       "endDate": "2021-11",
       "summary": "Web and Mobile Solutions Provider Company",
       "highlights": [
-        "Designed and Implemented a Multi-Branch CRM System (ParadiseHub): Led the end-to-end development of a comprehensive CRM system supporting 11 distinct user roles. Key features included multi-stage applicant registration, flexible rental plan management (seats, desks, offices) per branch, meeting room booking, service definition and sales, branch-specific financial reporting, and integrated support ticketing/chat. (MEAN Stack: Node.js, Express.js, Angular, MongoDB)",
-        "Developed and Enhanced Backend Services for HR & Recruitment Platforms: Contributed to the development of the Iran.hr system and significantly re-architected and upgraded a job-seeking crawler bot, improving data acquisition efficiency and coverage. (MEAN Stack)",
-        "Full-Stack Contribution in Gaming & Mobile Applications: Collaborated on the development of the mobile game “Ch_Kalameh” (چ‌کلمه), applying backend skills to support game logic and data management.",
-        "Techs: Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based Authorization"
+        "I worked as a backend developer in IranHR project team, an architecture designer and developer of Paradise-Hub CRM project, and a team director in some small projects",
+        "Technologies: Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based Authorization"
       ]
     },
     {
       "company": "Maktab Sharif",
-      "position": "Full Stack Trainee",
+      "position": "Student and Intern",
       "website": "https://maktabsharif.ir/",
       "startDate": "2018-01",
       "endDate": "2018-06",
@@ -74,7 +65,7 @@
         "Developed a web scraping application using Node.js to gather the latest job postings from the three leading Iranian job websites; achieved to classify and store 1000+ jobs opportunities",
         "Designed and developed a job search engine website with filtering capabilities based on 5 specific parameters",
         "Award 1# top student in bootcamp, Invited to join with bootcamp's mentors company to start working with them",
-        "Techs: HTML5 | CSS3 | JavaScript | AngularJS | Node.js | Express.js | jQuery | Bootstrap | EJS | MongoDB | MySQL | Git"
+        "Technologies: HTML5 | CSS3 | JavaScript | AngularJS | Node.js | Express.js | jQuery | Bootstrap | EJS | MongoDB | MySQL | Git"
       ]
     },
     {
@@ -82,12 +73,12 @@
       "position": "Embedded System Programmer",
       "website": "https://kfabstudio.ir/",
       "startDate": "2017-10",
-      "endDate": "2018-01",
+      "endDate": "2017-12",
       "summary": "Startup Company for Technological Architecture and Advertising Services",
       "highlights": [
         "Programmed an MCU to control 8 mirror tiles with nine sensors to react to people moving in front of it with LED lighting playing",
         "Mirror Wall project teaser video link: https://www.aparat.com/v/mBcOW",
-        "Techs: C | AVR MCU | Arduino | IR-Sensor | Servo-Motors | LED-lighting"
+        "Technologies: C | AVR MCU | Arduino | IR-Sensor | Servo-Motors | LED-lighting"
       ]
     },
     {
@@ -95,17 +86,25 @@
       "position": "Software Developer",
       "website": "http://www.rghp.ir/",
       "startDate": "2017-06",
-      "endDate": "2017-10",
+      "endDate": "2017-09",
       "summary": "Manufacturer of Radiometric Measuring Instruments",
       "highlights": [
         "Increased productivity to 4x by enabling the software to support up to 4 simultaneous connected detectors; guaranteed rock-solid performance at a refresh rate of 1000ms",
         "Streamlined customizing alarm settings by creating a UI and sending commands to the main panel; no longer need to direct access",
-        "Techs: C# | .Net Framework | Windows Forms | USB/Serial Communication | USART | RS-232"
+        "Technologies: C# | .Net Framework | Windows Forms | USB-Port | Serial-Port | USART | RS-232"
       ]
     }
   ],
   "volunteer": [],
   "education": [
+    {
+      "institution": "Maktab Sharif Bootcamp",
+      "url": "https://maktabsharif.ir/",
+      "area": "Full Stack Web Development Program",
+      "studyType": "",
+      "startDate": "2018-01",
+      "endDate": "2018-06"
+    },
     {
       "institution": "Shahrood University of Technology",
       "url": "https://shahroodut.ac.ir/en/",
@@ -128,12 +127,11 @@
   ],
   "awards": [],
   "publications": [],
-  "skills": [
-    {
+  "skills": [{
       "name": "Programming Languages",
       "keywords": [
         "C# (.Net)",
-        "JavaScript (Node.js)",
+        "JavaScript (Node.js)", 
         "TypeScript",
         "C/C++",
         "SQL",
@@ -292,21 +290,29 @@
       "fluency": "Native Speaker"
     },
     {
-      "language": "English",
-      "fluency": "Upper-intermediate"
+      "language": "English"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Open Source Contributions",
-        "Going to Adventure Trips",
-        "Playing Video/Board Games",
-        "Books and Music"
-      ]
-    }
-  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Open Source Contributions",
+      "Going to Adventure Trips",
+      "Playing Video/Board Games",
+      "Books and Music"
+    ]
+  }],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Summary...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }
+  ]
 }
