@@ -220,3 +220,33 @@ Core Competencies
 - Core Microservice Ownership: Solely designed and implemented key microservices including Ticketing, Notification, and Cartable systems, ensuring robust functionality and seamless integration within the primary gas pipeline engineering software.
 - Advanced GIS Development & Integration: Developed a custom GIS Server implementing OGC standards (WFS, TMS, WMS) and formats (GeoJSON, XML). Engineered multiple GIS processing tools involving complex algorithms, data validation, and “GIS-ready” preparation.
 - Gas Industry Software Expertise (GLFS & DSPLogSheets): Developed data ingestion modules (scrapers/parsers) for AccuWeather and other providers for the Gas Load Forecasting System (GLFS). Implemented a dynamic reporting engine for the DSPLogSheets system, generating comparative analyses across multiple timeframes.
+
+
++ هدایت توسعه سمت سرور نرم‌افزار مهندسی شبیه‌ساز شبکه‌های گاز شهری (SGN) جهت انجام تحلیل‌های استاتیک و داینامیک فشار/جریان:
+ - بازبینی کد و اطمینان از رعایت استانداردهای کیفیت کد
+ - مدیریت بدهی فنی و نگهداری کد با انجام ریفکتورینگ مستمر و بازطراحی‌های مورد نیاز
+ - مشارکت در جلسات تحلیل، طراحی و معماری با Tech Lead
+ - مشارکت در توسعه و نگهداری اکوسیستم نرم‌افزار شامل ۹ میکروسرویس
+ - بازطراحی و توسعه پکیج‌های مجموعه شامل BackgroundTasks، Scheduler و InprocCore با معماری Clean و Three-Tier
+ - پیاده‌سازی یک میکرو GIS Server مطابق استاندارد‌های OGC برای پروتکل‌های WFS, TMS, و WMS با دو فرمت XML و GeoJSON 
+ - پیاده‌سازی ۵ ابزار جهت پالایش و اعتبارسنجی داده‌های جغرافیایی بر اساس الگوریتم‌های GIS-Ready
+ - همکاری و مشارکت در فرایندهای DevOps 
+ - کمک به انتشار دانش در سازمان و منتورینگ اعضا
+
+
+ سال ۱۳۸۸ کدنویسی را با زبان C شروع کردم و از سال ۱۳۹6 بر توسعه نرم‌افزارهای تحت وب متمرکز شدم.
+اکنون در زمینه تحلیل، طراحی و توسعه سیستم‌های اطلاعاتی سازمانی (MIS، EIS، GIS)، نرم‌افزارهای ERP، CRM و ارائه راهکارهای نرم‌افزاری فعالیت میکنم.
+همچنین به FinTech علاقه‌مندم و تجربه انجام پروژه‌ای شخصی در این زمینه را دارم.
+
+I began programming with C in 2010 and have focused on web programming since 2018.
+My work experience thus far has been in the field of analysis, design, and development of a variety of enterprise information systems (MIS, EIS, GIS) as well as ERP, CRM, and customer service softwares.
+I am also interested in the Fintech sector and have experience with a personal project in this area.
+
+
+سال ۱۳۸۸ کدنویسی را با زبان C شروع کردم و از سال ۱۳۹۶ بر توسعه نرم‌افزارهای تحت وب متمرکز شدم.
+دارای سابقه کار و تجربه عملی در زمینه تولید نرم‌افزارها و سامانه‌های اطلاعاتی سازمانی با محوریت:
++ تحلیل و مدلسازی فرایند‌های تجاری و ارائه راهکارهای نرم‌افزاری
++ اطمینان از کیفیت کد
++ تحلیل، طراحی، توسعه و نگهداری سامانه‌های نرم‌افزاری
++ توانمند در استفاده از بروزترین روش‌های توسعه و نگهداری کد
+همچنین به FinTech علاقه‌مندم و تجربه انجام پروژه‌ شخصی در بازارهای مالی را دارم.

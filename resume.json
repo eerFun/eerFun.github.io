@@ -32,13 +32,13 @@
   "work": [
     {
       "company": "Intelligent Petro Processors (INPROC)",
-      "position": "Senior Software Engineer | Lead Backend Developer",
+      "position": "Senior Software Engineer | Lead Backend Development",
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
       "summary": "A company specializing in engineering simulation and analysis software for gas pipeline networks, leveraging web-based GIS technology",
       "highlights": [
-        " Lead Backend Developer for GPNet5 project, a web-based GIS engineering software for designing, analyzing, and simulating gas pipeline networks, handling dynamic and static pressure-flow analysis.",
+        "Lead Backend Developer for SGN project, a web-based GIS engineering software for designing, analyzing, and simulating gas pipeline networks, handling dynamic and static pressure-flow analysis.",
         "Spearheaded server-side development using .NET 5+, C#, implementing Clean Architecture and CQRS Pattern for robust and maintainable backend services.",
         "Designed and developed microservices architecture, utilizing NestJS, TypeORM, and RabbitMQ for efficient inter-service communication and asynchronous processing.",
         "Managed and optimized MSSQL Server databases, leveraging LINQ for data access and manipulation.",
@@ -46,11 +46,11 @@
         "Implemented and utilized GIS functionalities and OGC Standards (WFS, WMS, WMTS) with OpenLayers for spatial data visualization and analysis.",
         "Proficient in DevOps practices with Azure DevOps for CI/CD pipelines and collaborative development.",
         "Experience with GeoServer for managing and publishing geospatial data.",
-        "Techs: .Net 5+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"
+        "Techs: .Net 6+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"
       ]
     },
     {
-      "company": "FuDev (Future Development) Group",
+      "company": "Future Technology (FuTech) Group",
       "position": "Software Developer | Backend Engineer | Co-founder",
       "website": "https://fudev.ir/",
       "startDate": "2018-06",
@@ -59,7 +59,7 @@
       "highlights": [
         "Designed and Implemented a Multi-Branch CRM System (ParadiseHub): Led the end-to-end development of a comprehensive CRM system supporting 11 distinct user roles. Key features included multi-stage applicant registration, flexible rental plan management (seats, desks, offices) per branch, meeting room booking, service definition and sales, branch-specific financial reporting, and integrated support ticketing/chat. (MEAN Stack: Node.js, Express.js, Angular, MongoDB)",
         "Developed and Enhanced Backend Services for HR & Recruitment Platforms: Contributed to the development of the Iran.hr system and significantly re-architected and upgraded a job-seeking crawler bot, improving data acquisition efficiency and coverage. (MEAN Stack)",
-        "Full-Stack Contribution in Gaming & Mobile Applications: Collaborated on the development of the mobile game “Ch_Kalameh” (چ‌کلمه), applying backend skills to support game logic and data management.",
+        "Full-Stack Contribution in Gaming & Mobile Applications: Collaborated on the development of the mobile game “Che_Kalameh” (چ‌کلمه), applying backend skills to support game logic and data management.",
         "Techs: Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based Authorization"
       ]
     },
