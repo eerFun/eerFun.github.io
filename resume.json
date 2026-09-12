@@ -32,7 +32,7 @@
   "work": [
     {
       "company": "Intelligent Petro Processors (INPROC)",
-      "position": "Senior Software Engineer | Lead Backend Development",
+      "position": "Software Engineer",
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
@@ -42,16 +42,16 @@
         "Spearheaded server-side development using .NET 5+, C#, implementing Clean Architecture and CQRS Pattern for robust and maintainable backend services.",
         "Designed and developed microservices architecture, utilizing NestJS, TypeORM, and RabbitMQ for efficient inter-service communication and asynchronous processing.",
         "Managed and optimized MSSQL Server databases, leveraging LINQ for data access and manipulation.",
-        "Developed and integrated frontend components using Angular 9+, TypeScript, RxJS, and Kendo UI, ensuring seamless user experience.",
+        "Developed and integrated frontend components using Angular, TypeScript, RxJS, and Kendo UI, ensuring seamless user experience.",
         "Implemented and utilized GIS functionalities and OGC Standards (WFS, WMS, WMTS) with OpenLayers for spatial data visualization and analysis.",
         "Proficient in DevOps practices with Azure DevOps for CI/CD pipelines and collaborative development.",
         "Experience with GeoServer for managing and publishing geospatial data.",
-        "Techs: .Net 6+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"
+        "Techs: C# | .Net Core | MSSQL Server | Microservices | NestJS | Angular | GIS"
       ]
     },
     {
       "company": "Future Technology (FuTech) Group",
-      "position": "Software Developer | Backend Engineer | Co-founder",
+      "position": "Software Developer | Backend Engineer",
       "website": "https://fudev.ir/",
       "startDate": "2018-06",
       "endDate": "2021-11",
@@ -60,7 +60,7 @@
         "Designed and Implemented a Multi-Branch CRM System (ParadiseHub): Led the end-to-end development of a comprehensive CRM system supporting 11 distinct user roles. Key features included multi-stage applicant registration, flexible rental plan management (seats, desks, offices) per branch, meeting room booking, service definition and sales, branch-specific financial reporting, and integrated support ticketing/chat. (MEAN Stack: Node.js, Express.js, Angular, MongoDB)",
         "Developed and Enhanced Backend Services for HR & Recruitment Platforms: Contributed to the development of the Iran.hr system and significantly re-architected and upgraded a job-seeking crawler bot, improving data acquisition efficiency and coverage. (MEAN Stack)",
         "Full-Stack Contribution in Gaming & Mobile Applications: Collaborated on the development of the mobile game “Che_Kalameh” (چ‌کلمه), applying backend skills to support game logic and data management.",
-        "Techs: Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based Authorization"
+        "Techs: JavaScript | Node.js | Express.js | MongoDB "
       ]
     },
     {
@@ -74,7 +74,7 @@
         "Developed a web scraping application using Node.js to gather the latest job postings from the three leading Iranian job websites; achieved to classify and store 1000+ jobs opportunities",
         "Designed and developed a job search engine website with filtering capabilities based on 5 specific parameters",
         "Award 1# top student in bootcamp, Invited to join with bootcamp's mentors company to start working with them",
-        "Techs: HTML5 | CSS3 | JavaScript | AngularJS | Node.js | Express.js | jQuery | Bootstrap | EJS | MongoDB | MySQL | Git"
+        "Techs: HTML/CSS | JavaScript | Node.js | Express.js | MySQL | Git"
       ]
     },
     {
@@ -100,7 +100,7 @@
       "highlights": [
         "Increased productivity to 4x by enabling the software to support up to 4 simultaneous connected detectors; guaranteed rock-solid performance at a refresh rate of 1000ms",
         "Streamlined customizing alarm settings by creating a UI and sending commands to the main panel; no longer need to direct access",
-        "Techs: C# | .Net Framework | Windows Forms | USB/Serial Communication | USART | RS-232"
+        "Techs: C# | Windows Forms | USB/Serial Communication | RS-232"
       ]
     }
   ],
@@ -130,159 +130,39 @@
   "publications": [],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Software Engineering",
       "keywords": [
-        "C# (.Net)",
-        "JavaScript (Node.js)",
-        "TypeScript",
-        "C/C++",
-        "SQL",
-        "LINQ",
-        "HTML",
-        "CSS"
+        "SDLC",
+        "Requirements analysis",
+        "Code review",
+        "Refactoring",
+        "Git workflows"
       ]
     },
     {
-      "name": "Programming Paradigms",
+      "name": "Software Design & Architecture",
       "keywords": [
-        "Imperative & Structured",
-        "Functional",
-        "Object-oriented (OOP): Class-based|Prototype-based",
-        "Declarative",
-        "Event-driven",
-        "Reactive"
+        "High-level system design",
+        "OOD",
+        "Design patterns",
+        "API design",
+        "Data modeling"
       ]
     },
     {
-      "name": "Programming Techniques",
+      "name": "Backend Development",
       "keywords": [
-        "Asynchronous Programming",
-        "Defensive Programming",
-        "Generic",
-        "Dependency Injection (DI)",
-        "Recursion",
-        "Reflection"
+        ".NET Core (C#)",
+        "Node.js (JavaScript)",
+        "SQL Server, MongoDB"
       ]
     },
     {
-      "name": "Backend Frameworks",
+      "name": "DevOps & Delivery",
       "keywords": [
-        "ASP.Net Core",
-        "Express.js",
-        "NestJS"
-      ]
-    },
-    {
-      "name": "Frontend Frameworks",
-      "keywords": [
-        "Angular",
-        "Kendo UI",
-        "Bootstrap"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": [
-        "MongoDB",
-        "MSSQL Server",
-        "Elasticsearch",
-        "MySQL",
-        "Redis",
-        "PostgreSQL"
-      ]
-    },
-    {
-      "name": "Database ORMs/ODMs",
-      "keywords": [
-        "Mongoose",
-        "Entity Framework (EF) Core",
-        "TypeORM",
-        "Prisma"
-      ]
-    },
-    {
-      "name": "Web Security",
-      "keywords": []
-    },
-    {
-      "name": "Web Development Knowledge",
-      "keywords": [
-        "Authentication: Token-based|Session-based",
-        "Authorization: Access Control List (ACL)|Role-based (RBAC)|Attribute-based (ABAC): Permission/Claims-based (CBAC) or Policy-based (PBAC)",
-        "Web APIs: REST",
-        "WebSocket: Socket.IO|SignalR",
-        "Message Broker: RabbitMQ",
-        "Middleware",
-        "WebHook",
-        "Caching: Client-side|Application|Web Server|CDN",
-        "Testing",
-        "Responsive Web Design (RWD): Grid|Flexbox|Media Queries",
-        "Rendering: SSG|SSR|ISR|CSR",
-        "Template Engine: EJS"
-      ]
-    },
-    {
-      "name": "Packages and Libraries",
-      "keywords": [
-        "OpenLayers",
-        "RxJS",
-        "jQuery",
-        "Nodemon",
-        "PM2",
-        "MediatR"
-      ]
-    },
-    {
-      "name": "Software Architectural Styles and Patterns",
-      "keywords": [
-        "Monolithic",
-        "Component-based (Modular)",
-        "Layered",
-        "Data-Centric",
-        "Microservices",
-        "Service-oriented Architecture (SOA)",
-        "Event-driven Architecture (EDA)",
-        "Domain-driven Design (DDD)",
-        "Model-View-Controller (MVC)",
-        "Three-tier (Multi-tier) Architecture",
-        "Clean Architecture",
-        "Hexagonal Architecture",
-        "Onion Architecture",
-        "Request/Response Pattern",
-        "Publish/Subscriber Pattern",
-        "CQRS Pattern"
-      ]
-    },
-    {
-      "name": "Coding Guidelines and Design Principles",
-      "keywords": [
-        "Clean Code Principles",
-        "SOLID Principles",
-        "KISS",
-        "DRY",
-        "YAGNI",
-        "LoD",
-        "Composition over Inheritance",
-        "Encapsulate What Varies",
-        "Hollywood Principle",
-        "Program Against Abstractions"
-      ]
-    },
-    {
-      "name": "General Development Softwares and Tools",
-      "keywords": [
-        "Version Control Systems (VCS): Git",
-        "Source Control Hosting: GitHub|GitLab|Azure Repos",
-        "Package Manager: npm, yarn, NuGet",
-        "Module Bundler: Webpack",
-        "Static Code Analysis: ESLint",
-        "API Test: Postman|REST Client",
-        "E2E Test: Playwright|Selenium|Puppeteer",
-        "Documentation: Swagger|JSDoc|apiDoc|Compodoc",
-        "UML: Enterprise Architect",
-        "Containerization Platforms: Docker|Kubernetes",
-        "Planning and Project Tracking: Jira|Azure Boards|Trello",
-        "Team Communication: Slack"
+        "CI/CD pipelines",
+        "Containerization",
+        "Environment configuration & deployment support"
       ]
     }
   ],
@@ -296,17 +176,7 @@
       "fluency": "Upper-intermediate"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Open Source Contributions",
-        "Going to Adventure Trips",
-        "Playing Video/Board Games",
-        "Books and Music"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [],
   "projects": []
 }
