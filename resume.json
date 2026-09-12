@@ -1,16 +1,16 @@
 {
   "meta": {
-    "version": "1.4.0",
-    "lastModified": "2026-05"
+    "version": "1.4.1",
+    "lastModified": "2026-09"
   },
   "basics": {
     "name": "Erfan Eivazi",
-    "label": "Software Engineer",
+    "label": "Senior Software Engineer | Backend Developer",
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
     "phone": "",
     "website": "eerFun.github.io",
-    "summary": "Senior Software Engineer with 8+ years of experience in backend-oriented system design and development.\n Skilled in building scalable and maintainable systems using microservices, clean architecture, and modern .NET technologies.\n Deeply involved in code quality practices, including code reviews, refactoring, and enforcing engineering standards.\n Experienced in working across multiple products, designing cross‑service integrations, and contributing to CI/CD workflows in Agile/Scrum environments.",
+    "summary": "Senior Software Engineer with 8+ years of experience in backend-oriented software development and web-based information systems.\nExperienced in designing and maintaining enterprise applications, improving code quality, refactoring legacy systems, and contributing across the SDLC in Agile/Scrum environments.\nStrong background in .NET/C#, Node.js, software architecture, databases, GIS, data processing, and enterprise web applications, with additional experience in DevOps and fintech-related projects.",
     "profiles": [
       {
         "network": "Github",
@@ -32,21 +32,19 @@
   "work": [
     {
       "company": "Intelligent Petro Processors (INPROC)",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
-      "summary": "A company specializing in engineering simulation and analysis software for gas pipeline networks, leveraging web-based GIS technology",
+      "summary": "Engineering software and information systems company serving the gas industry.",
       "highlights": [
-        "Lead Backend Developer for SGN project, a web-based GIS engineering software for designing, analyzing, and simulating gas pipeline networks, handling dynamic and static pressure-flow analysis.",
-        "Spearheaded server-side development using .NET 5+, C#, implementing Clean Architecture and CQRS Pattern for robust and maintainable backend services.",
-        "Designed and developed microservices architecture, utilizing NestJS, TypeORM, and RabbitMQ for efficient inter-service communication and asynchronous processing.",
-        "Managed and optimized MSSQL Server databases, leveraging LINQ for data access and manipulation.",
-        "Developed and integrated frontend components using Angular, TypeScript, RxJS, and Kendo UI, ensuring seamless user experience.",
-        "Implemented and utilized GIS functionalities and OGC Standards (WFS, WMS, WMTS) with OpenLayers for spatial data visualization and analysis.",
-        "Proficient in DevOps practices with Azure DevOps for CI/CD pipelines and collaborative development.",
-        "Experience with GeoServer for managing and publishing geospatial data.",
-        "Techs: C# | .Net Core | MSSQL Server | Microservices | NestJS | Angular | GIS"
+        "Developed and maintained backend systems for gas network simulation, gas consumption forecasting, and transmission network monitoring for the National Iranian Gas Company.",
+        "Designed and implemented backend services using C#/.NET with Clean Architecture and CQRS, while contributing to microservices and asynchronous processing using NestJS, RabbitMQ, and TypeORM.",
+        "Participated in requirements analysis, system design, code reviews, technical debt management, and continuous refactoring to improve maintainability and extensibility.",
+        "Developed GIS infrastructure and geospatial data workflows using OGC standards, WFS, WMS, TMS, OpenLayers, and GeoServer.",
+        "Built data processing, web scraping, dynamic reporting, QueryBuilder, and Excel-based reporting solutions.",
+        "Contributed to frontend development and DevOps workflows in Agile/Scrum teams, including CI/CD support and mentoring.",
+        "Techs: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | NestJS | RabbitMQ | Angular | GIS | OGC | GeoServer | Azure DevOps"
       ]
     },
     {
@@ -55,52 +53,39 @@
       "website": "https://fudev.ir/",
       "startDate": "2018-06",
       "endDate": "2021-11",
-      "summary": "Web and Mobile Solutions Provider Company",
+      "summary": "Web and software solutions company.",
       "highlights": [
-        "Designed and Implemented a Multi-Branch CRM System (ParadiseHub): Led the end-to-end development of a comprehensive CRM system supporting 11 distinct user roles. Key features included multi-stage applicant registration, flexible rental plan management (seats, desks, offices) per branch, meeting room booking, service definition and sales, branch-specific financial reporting, and integrated support ticketing/chat. (MEAN Stack: Node.js, Express.js, Angular, MongoDB)",
-        "Developed and Enhanced Backend Services for HR & Recruitment Platforms: Contributed to the development of the Iran.hr system and significantly re-architected and upgraded a job-seeking crawler bot, improving data acquisition efficiency and coverage. (MEAN Stack)",
-        "Full-Stack Contribution in Gaming & Mobile Applications: Collaborated on the development of the mobile game “Che_Kalameh” (چ‌کلمه), applying backend skills to support game logic and data management.",
-        "Techs: JavaScript | Node.js | Express.js | MongoDB "
+        "Designed and developed ParadiseHub, a multi-branch CRM and workspace management platform with 11 user roles, workspace rental, reservations, online payments, wallet payments, financial reporting, and multi-stage application workflows.",
+        "Built advanced search and query-building functionality over Elasticsearch for large volumes of unstructured data.",
+        "Contributed as a Backend Developer to HR and recruitment platforms, a job-search engine, and mobile applications.",
+        "Techs: JavaScript | Node.js | Express.js | Angular | MongoDB | Elasticsearch"
       ]
     },
     {
       "company": "Maktab Sharif",
-      "position": "Full Stack Trainee",
+      "position": "Full Stack Web Development Trainee",
       "website": "https://maktabsharif.ir/",
       "startDate": "2018-01",
       "endDate": "2018-06",
-      "summary": "Web Development Coding Bootcamp",
+      "summary": "Web development coding bootcamp.",
       "highlights": [
-        "Developed a web scraping application using Node.js to gather the latest job postings from the three leading Iranian job websites; achieved to classify and store 1000+ jobs opportunities",
-        "Designed and developed a job search engine website with filtering capabilities based on 5 specific parameters",
-        "Award 1# top student in bootcamp, Invited to join with bootcamp's mentors company to start working with them",
-        "Techs: HTML/CSS | JavaScript | Node.js | Express.js | MySQL | Git"
+        "Built a web scraping application collecting job postings from three major Iranian job websites and developed a job search engine with filtering capabilities.",
+        "Ranked first in the bootcamp and was invited to join FuTech Group as a software developer.",
+        "Techs: HTML | CSS | JavaScript | Node.js | Express.js | MySQL | Git"
       ]
     },
     {
-      "company": "Kinetic Fabrication Studio",
-      "position": "Embedded System Programmer",
-      "website": "https://kfabstudio.ir/",
-      "startDate": "2017-10",
+      "company": "Freelance",
+      "position": "Embedded Systems & Software Developer",
+      "website": "",
+      "startDate": "2017-01",
       "endDate": "2018-01",
-      "summary": "Startup Company for Technological Architecture and Advertising Services",
+      "summary": "Freelance embedded systems and software-hardware integration projects.",
       "highlights": [
-        "Programmed an MCU to control 8 mirror tiles with nine sensors to react to people moving in front of it with LED lighting playing",
-        "Mirror Wall project teaser video link: https://www.aparat.com/v/mBcOW",
-        "Techs: C | AVR MCU | Arduino | IR-Sensor | Servo-Motors | LED-lighting"
-      ]
-    },
-    {
-      "company": "Parto Tajhiz Besat",
-      "position": "Software Developer",
-      "website": "http://www.rghp.ir/",
-      "startDate": "2017-06",
-      "endDate": "2017-10",
-      "summary": "Manufacturer of Radiometric Measuring Instruments",
-      "highlights": [
-        "Increased productivity to 4x by enabling the software to support up to 4 simultaneous connected detectors; guaranteed rock-solid performance at a refresh rate of 1000ms",
-        "Streamlined customizing alarm settings by creating a UI and sending commands to the main panel; no longer need to direct access",
-        "Techs: C# | Windows Forms | USB/Serial Communication | RS-232"
+        "Developed embedded control software for an interactive Smart Wall installation.",
+        "Enhanced radiation monitoring software to support multiple detectors and configurable alarm control.",
+        "Designed and implemented software and hardware prototypes for access control, silo monitoring, and automatic parking-gate control.",
+        "Techs: C | C# | AVR | Arduino | Windows Forms | RS-232 | Embedded Systems"
       ]
     }
   ],
@@ -112,57 +97,76 @@
       "area": "Mechatronics and Robotics Engineering",
       "studyType": "Bachelor of Science (B.Sc.)",
       "startDate": "2013-09",
-      "endDate": "2018-01",
-      "courses": [
-        "Basic Programming in C, Advanced Programming in C++"
-      ]
-    },
-    {
-      "institution": "Allameh Helli 4 High School (NODET)",
-      "url": "https://www.helli4.ir/",
-      "area": "Mathematics and Physics",
-      "studyType": "Diploma",
-      "startDate": "2009-09",
-      "endDate": "2013-06"
+      "endDate": "2018-01"
     }
   ],
   "awards": [],
   "publications": [],
   "skills": [
     {
-      "name": "Software Engineering",
-      "keywords": [
-        "SDLC",
-        "Requirements analysis",
-        "Code review",
-        "Refactoring",
-        "Git workflows"
-      ]
-    },
-    {
-      "name": "Software Design & Architecture",
-      "keywords": [
-        "High-level system design",
-        "OOD",
-        "Design patterns",
-        "API design",
-        "Data modeling"
-      ]
-    },
-    {
       "name": "Backend Development",
       "keywords": [
-        ".NET Core (C#)",
-        "Node.js (JavaScript)",
-        "SQL Server, MongoDB"
+        "C#",
+        ".NET",
+        "ASP.NET Core",
+        "Node.js",
+        "NestJS",
+        "Express.js",
+        "REST APIs",
+        "RabbitMQ"
       ]
     },
     {
-      "name": "DevOps & Delivery",
+      "name": "Software Architecture & Engineering",
       "keywords": [
-        "CI/CD pipelines",
-        "Containerization",
-        "Environment configuration & deployment support"
+        "Clean Architecture",
+        "CQRS",
+        "Microservices",
+        "System Design",
+        "Code Review",
+        "Refactoring",
+        "SDLC",
+        "Agile",
+        "Scrum",
+        "Technical Debt"
+      ]
+    },
+    {
+      "name": "Databases & Data",
+      "keywords": [
+        "SQL Server",
+        "MongoDB",
+        "Elasticsearch",
+        "LINQ",
+        "TypeORM",
+        "Data Modeling",
+        "Data Processing",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "GIS & DevOps",
+      "keywords": [
+        "GIS",
+        "OGC",
+        "WFS",
+        "WMS",
+        "TMS",
+        "OpenLayers",
+        "GeoServer",
+        "Azure DevOps",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "RxJS",
+        "HTML",
+        "CSS"
       ]
     }
   ],
@@ -176,7 +180,10 @@
       "fluency": "Upper-intermediate"
     }
   ],
-  "interests": [],
+  "interests": [
+    "FinTech",
+    "Financial Markets"
+  ],
   "references": [],
   "projects": []
 }

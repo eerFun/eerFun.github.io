@@ -1,16 +1,16 @@
 {
   "meta": {
-    "version": "1.4.0",
-    "lastModified": "2023-05"
+    "version": "1.4.1",
+    "lastModified": "2026-09"
   },
   "basics": {
     "name": "Erfan Eivazi",
-    "label": "Software Engineer",
+    "label": "Senior Software Engineer | Backend Developer",
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
     "phone": "",
     "website": "eerFun.github.io",
-    "summary": "Software Engineer",
+    "summary": "Senior Software Engineer with 8+ years of experience in software and web-based information system development, with a strong focus on backend engineering.\nExperienced in business process analysis, software design and development across the SDLC, code quality, refactoring, maintainability, and long-term system evolution.\nHands-on experience in enterprise web applications, GIS, data processing, reporting systems, automation, and financial technology projects.\nExperienced in Agile/Scrum teams, technical debt management, code reviews, DevOps collaboration, and mentoring software developers.",
     "profiles": [
       {
         "network": "Github",
@@ -32,79 +32,118 @@
   "work": [
     {
       "company": "Intelligent Petro Processors (INPROC)",
-      "position": "Backend Software Engineer",
+      "position": "Senior Software Engineer",
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
-      "summary": "Engineering simulation and analysis software company",
+      "summary": "Engineering software and information systems company developing web-based solutions for gas network analysis, simulation, monitoring, and data management.",
       "highlights": [
-        "I mostly work on server-side development in GPNet5 project which is a Web-based GIS engineering software for designing, analyzing and simulating gas pipelines networks",
-        "Technologies: .Net 5+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"
+        "Worked as a Senior Backend Developer across multiple software projects for the National Iranian Gas Company, including gas network simulation, gas consumption forecasting, and transmission network monitoring systems.",
+        "Developed the SGN gas network simulation platform, providing static and dynamic pressure-flow analysis for gas distribution engineers and analysts.",
+        "Contributed to the development of a gas consumption forecasting system using historical consumption data and temperature variations to support gas demand analysis.",
+        "Developed a logsheet data entry and monitoring system for recording station and control-valve information, emergency events, and operational reports for the gas transmission network.",
+        "Followed the Software Development Life Cycle (SDLC) within an Agile/Scrum development process.",
+        "Participated in requirements analysis and system design sessions together with the technical lead.",
+        "Performed code reviews and promoted Clean Code practices to improve code quality, readability, and maintainability.",
+        "Managed technical debt and planned continuous refactoring to maintain long-term extensibility and reduce maintenance costs.",
+        "Redesigned core software packages, including BackgroundTasks and InprocCore, using Clean Architecture principles.",
+        "Designed and developed a GIS Server compliant with OGC standards, supporting WFS, TMS, and WMS services.",
+        "Implemented five tools for validation and cleansing of geographic data according to GIS-Ready guidelines.",
+        "Developed a weather data ingestion module consuming data from the Iran Meteorological Organization FTP service and multiple external websites using web scraping techniques.",
+        "Developed a dynamic reporting system with an advanced QueryBuilder for generating comparative and aggregated reports based on user-selected fields.",
+        "Implemented Excel-based reporting workflows, including Excel export, template-based report generation, and macro-enabled templates.",
+        "Contributed to frontend development and web application tasks when required.",
+        "Supported and monitored DevOps processes and application delivery workflows.",
+        "Contributed to team knowledge sharing, mentoring, and improving collaboration within the development team.",
+        "Techs: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | NestJS | TypeORM | RabbitMQ | Angular | TypeScript | RxJS | GIS | OGC Standards | OpenLayers | GeoServer | Azure DevOps | Excel"
       ]
     },
     {
-      "company": "Fudev Group (formerly FuTech Group)",
-      "position": "Backend Web Developer & Co-founder",
+      "company": "Future Technology (FuTech) Group",
+      "position": "Software Developer | Backend Engineer",
       "website": "https://fudev.ir/",
       "startDate": "2018-06",
       "endDate": "2021-11",
-      "summary": "Web and Mobile Solutions Provider Company",
+      "summary": "Web and software solutions company delivering business, recruitment, search, and mobile applications.",
       "highlights": [
-        "I worked as a backend developer in IranHR project team, an architecture designer and developer of Paradise-Hub CRM project, and a team director in some small projects",
-        "Technologies: Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based Authorization"
+        "Designed and developed ParadiseHub, a multi-branch CRM and workspace management platform, using a fully NoSQL-based data model and supporting 11 distinct user roles.",
+        "Implemented flexible management of branch-specific workspace rental plans, including offices, desks, and seats for shared and dedicated workspaces.",
+        "Developed online rental and renewal workflows with payment gateway integration.",
+        "Implemented management and reservation of shared spaces such as meeting rooms and conference halls for each branch.",
+        "Developed branch-specific service management and sales workflows, including services such as breakfast and other member offerings.",
+        "Implemented member reservations and service purchases using wallet-based payments.",
+        "Developed financial management features including discounts, sales reports, and invoice management.",
+        "Implemented proposal submission and multi-stage application workflows for the company's accelerator program.",
+        "Designed and implemented an advanced query-building interface on Elasticsearch for searching large volumes of unstructured and filtered data.",
+        "Contributed as a Backend Developer to HR and recruitment products, including IranHR, a job-search engine, and other web-based systems.",
+        "Contributed to the development of the mobile game \"Che-Kalameh\" by working on backend functionality and data-related components.",
+        "Techs: JavaScript | Node.js | Express.js | Angular | MongoDB | Elasticsearch | REST APIs | Git"
       ]
     },
     {
       "company": "Maktab Sharif",
-      "position": "Student and Intern",
+      "position": "Full Stack Web Development Trainee",
       "website": "https://maktabsharif.ir/",
       "startDate": "2018-01",
       "endDate": "2018-06",
-      "summary": "Web Development Coding Bootcamp",
+      "summary": "Web development coding bootcamp.",
       "highlights": [
-        "Developed a web scraping application using Node.js to gather the latest job postings from the three leading Iranian job websites; achieved to classify and store 1000+ jobs opportunities",
-        "Designed and developed a job search engine website with filtering capabilities based on 5 specific parameters",
-        "Award 1# top student in bootcamp, Invited to join with bootcamp's mentors company to start working with them",
-        "Technologies: HTML5 | CSS3 | JavaScript | AngularJS | Node.js | Express.js | jQuery | Bootstrap | EJS | MongoDB | MySQL | Git"
+        "Built a job-search data collection system using web scraping to gather and process data from three major Iranian job websites.",
+        "Developed a job search engine with search and filtering capabilities for collected job postings.",
+        "Gained hands-on experience with the MEAN stack and practical software development workflows.",
+        "Studied core concepts of networking, database design, and Agile software development methodologies.",
+        "Ranked first in the bootcamp and was invited to join the FuTech Group as a software developer.",
+        "Techs: HTML | CSS | JavaScript | Node.js | Express.js | MySQL | Git"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Embedded Systems & Software Developer",
+      "website": "",
+      "startDate": "2017-01",
+      "endDate": "2018-01",
+      "summary": "Freelance engineering projects involving embedded systems, hardware control, monitoring software, and software-hardware integration.",
+      "highlights": [
+        "Developed the motion-control and lighting software for an interactive Smart Wall advertising installation that detected pedestrians and dynamically reacted to their movement.",
+        "Upgraded a radiation monitoring application to support four simultaneous detectors and added configurable radiation alarm levels with command transmission to the hardware control panel.",
+        "Designed, built, and implemented a prototype access-control and silo-capacity monitoring system with its software user interface.",
+        "Designed and built a timer-based parking-gate control circuit with automatic closing, vehicle detection, and obstacle detection.",
+        "Worked across embedded programming, hardware interfaces, control systems, and software user interfaces.",
+        "Techs: C | C# | AVR | Arduino | Windows Forms | Serial Communication | RS-232 | Sensors | Servo Motors | LED Control"
       ]
     },
     {
       "company": "Kinetic Fabrication Studio",
-      "position": "Embedded System Programmer",
+      "position": "Embedded Systems Programmer",
       "website": "https://kfabstudio.ir/",
-      "startDate": "2017-10",
+      "startDate": "2017-01",
       "endDate": "2017-12",
-      "summary": "Startup Company for Technological Architecture and Advertising Services",
+      "summary": "Architecture and technology studio specializing in interactive technological installations and advertising structures.",
       "highlights": [
-        "Programmed an MCU to control 8 mirror tiles with nine sensors to react to people moving in front of it with LED lighting playing",
-        "Mirror Wall project teaser video link: https://www.aparat.com/v/mBcOW",
-        "Technologies: C | AVR MCU | Arduino | IR-Sensor | Servo-Motors | LED-lighting"
+        "Developed the control software for an interactive Smart Wall installation that used sensors to detect pedestrians and control movement and lighting effects.",
+        "Programmed embedded controllers to coordinate multiple actuators and LED lighting based on sensor input.",
+        "Collaborated with the architecture and fabrication team to integrate embedded software with the physical installation.",
+        "Techs: C | AVR MCU | Arduino | IR Sensors | Servo Motors | LED Lighting"
       ]
     },
     {
       "company": "Parto Tajhiz Besat",
       "position": "Software Developer",
       "website": "http://www.rghp.ir/",
-      "startDate": "2017-06",
-      "endDate": "2017-09",
-      "summary": "Manufacturer of Radiometric Measuring Instruments",
+      "startDate": "2017-01",
+      "endDate": "2017-10",
+      "summary": "Manufacturer of radiometric measurement and radiation monitoring equipment.",
       "highlights": [
-        "Increased productivity to 4x by enabling the software to support up to 4 simultaneous connected detectors; guaranteed rock-solid performance at a refresh rate of 1000ms",
-        "Streamlined customizing alarm settings by creating a UI and sending commands to the main panel; no longer need to direct access",
-        "Technologies: C# | .Net Framework | Windows Forms | USB-Port | Serial-Port | USART | RS-232"
+        "Enhanced radiation monitoring software to support simultaneous monitoring of up to four connected detectors.",
+        "Implemented configurable radiation alarm thresholds and a software interface for sending control commands to the hardware panel.",
+        "Improved the operator workflow by enabling alarm configuration directly from the application instead of requiring direct hardware-panel access.",
+        "Worked on software-hardware communication and real-time monitoring interfaces.",
+        "Techs: C# | Windows Forms | USB | Serial Communication | RS-232"
       ]
     }
   ],
   "volunteer": [],
   "education": [
-    {
-      "institution": "Maktab Sharif Bootcamp",
-      "url": "https://maktabsharif.ir/",
-      "area": "Full Stack Web Development Program",
-      "studyType": "",
-      "startDate": "2018-01",
-      "endDate": "2018-06"
-    },
     {
       "institution": "Shahrood University of Technology",
       "url": "https://shahroodut.ac.ir/en/",
@@ -113,7 +152,8 @@
       "startDate": "2013-09",
       "endDate": "2018-01",
       "courses": [
-        "Basic Programming in C, Advanced Programming in C++"
+        "Programming in C",
+        "Advanced Programming in C++"
       ]
     },
     {
@@ -127,160 +167,103 @@
   ],
   "awards": [],
   "publications": [],
-  "skills": [{
-      "name": "Programming Languages",
+  "skills": [
+    {
+      "name": "Software Engineering",
       "keywords": [
-        "C# (.Net)",
-        "JavaScript (Node.js)", 
-        "TypeScript",
-        "C/C++",
-        "SQL",
+        "SDLC",
+        "Agile",
+        "Scrum",
+        "Requirements Analysis",
+        "Code Review",
+        "Clean Code",
+        "Refactoring",
+        "Technical Debt",
+        "Git"
+      ]
+    },
+    {
+      "name": "Software Design & Architecture",
+      "keywords": [
+        "System Design",
+        "Object-Oriented Design",
+        "Clean Architecture",
+        "CQRS",
+        "Design Patterns",
+        "API Design",
+        "Data Modeling",
+        "Microservices"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "C#",
+        ".NET",
+        "ASP.NET Core",
+        "Node.js",
+        "NestJS",
+        "Express.js",
+        "REST APIs",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "name": "Databases & Data",
+      "keywords": [
+        "SQL Server",
+        "MongoDB",
+        "Elasticsearch",
+        "TypeORM",
         "LINQ",
+        "Query Building",
+        "Data Processing",
+        "Reporting"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "RxJS",
         "HTML",
         "CSS"
       ]
     },
     {
-      "name": "Programming Paradigms",
+      "name": "GIS & Spatial Data",
       "keywords": [
-        "Imperative & Structured",
-        "Functional",
-        "Object-oriented (OOP): Class-based|Prototype-based",
-        "Declarative",
-        "Event-driven",
-        "Reactive"
-      ]
-    },
-    {
-      "name": "Programming Techniques",
-      "keywords": [
-        "Asynchronous Programming",
-        "Defensive Programming",
-        "Generic",
-        "Dependency Injection (DI)",
-        "Recursion",
-        "Reflection"
-      ]
-    },
-    {
-      "name": "Backend Frameworks",
-      "keywords": [
-        "ASP.Net Core",
-        "Express.js",
-        "NestJS"
-      ]
-    },
-    {
-      "name": "Frontend Frameworks",
-      "keywords": [
-        "Angular",
-        "Kendo UI",
-        "Bootstrap"
-      ]
-    },
-    {
-      "name": "Databases",
-      "keywords": [
-        "MongoDB",
-        "MSSQL Server",
-        "Elasticsearch",
-        "MySQL",
-        "Redis",
-        "PostgreSQL"
-      ]
-    },
-    {
-      "name": "Database ORMs/ODMs",
-      "keywords": [
-        "Mongoose",
-        "Entity Framework (EF) Core",
-        "TypeORM",
-        "Prisma"
-      ]
-    },
-    {
-      "name": "Web Security",
-      "keywords": []
-    },
-    {
-      "name": "Web Development Knowledge",
-      "keywords": [
-        "Authentication: Token-based|Session-based",
-        "Authorization: Access Control List (ACL)|Role-based (RBAC)|Attribute-based (ABAC): Permission/Claims-based (CBAC) or Policy-based (PBAC)",
-        "Web APIs: REST",
-        "WebSocket: Socket.IO|SignalR",
-        "Message Broker: RabbitMQ",
-        "Middleware",
-        "WebHook",
-        "Caching: Client-side|Application|Web Server|CDN",
-        "Testing",
-        "Responsive Web Design (RWD): Grid|Flexbox|Media Queries",
-        "Rendering: SSG|SSR|ISR|CSR",
-        "Template Engine: EJS"
-      ]
-    },
-    {
-      "name": "Packages and Libraries",
-      "keywords": [
+        "GIS",
+        "OGC Standards",
+        "WFS",
+        "WMS",
+        "TMS",
         "OpenLayers",
-        "RxJS",
-        "jQuery",
-        "Nodemon",
-        "PM2",
-        "MediatR"
+        "GeoServer",
+        "Spatial Data Validation"
       ]
     },
     {
-      "name": "Software Architectural Styles and Patterns",
+      "name": "DevOps & Delivery",
       "keywords": [
-        "Monolithic",
-        "Component-based (Modular)",
-        "Layered",
-        "Data-Centric",
-        "Microservices",
-        "Service-oriented Architecture (SOA)",
-        "Event-driven Architecture (EDA)",
-        "Domain-driven Design (DDD)",
-        "Model-View-Controller (MVC)",
-        "Three-tier (Multi-tier) Architecture",
-        "Clean Architecture",
-        "Hexagonal Architecture",
-        "Onion Architecture",
-        "Request/Response Pattern",
-        "Publish/Subscriber Pattern",
-        "CQRS Pattern"
+        "CI/CD",
+        "Azure DevOps",
+        "Deployment Support",
+        "Environment Configuration",
+        "DevOps Collaboration"
       ]
     },
     {
-      "name": "Coding Guidelines and Design Principles",
+      "name": "Other Technical Skills",
       "keywords": [
-        "Clean Code Principles",
-        "SOLID Principles",
-        "KISS",
-        "DRY",
-        "YAGNI",
-        "LoD",
-        "Composition over Inheritance",
-        "Encapsulate What Varies",
-        "Hollywood Principle",
-        "Program Against Abstractions"
-      ]
-    },
-    {
-      "name": "General Development Softwares and Tools",
-      "keywords": [
-        "Version Control Systems (VCS): Git",
-        "Source Control Hosting: GitHub|GitLab|Azure Repos",
-        "Package Manager: npm, yarn, NuGet",
-        "Module Bundler: Webpack",
-        "Static Code Analysis: ESLint",
-        "API Test: Postman|REST Client",
-        "E2E Test: Playwright|Selenium|Puppeteer",
-        "Documentation: Swagger|JSDoc|apiDoc|Compodoc",
-        "UML: Enterprise Architect",
-        "Containerization Platforms: Docker|Kubernetes",
-        "Planning and Project Tracking: Jira|Azure Boards|Trello",
-        "Team Communication: Slack"
+        "Web Scraping",
+        "Excel Reporting",
+        "Excel Templates",
+        "Excel Macros",
+        "Embedded Systems",
+        "Serial Communication"
       ]
     }
   ],
@@ -290,29 +273,16 @@
       "fluency": "Native Speaker"
     },
     {
-      "language": "English"
+      "language": "English",
+      "fluency": "Upper-intermediate"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Open Source Contributions",
-      "Going to Adventure Trips",
-      "Playing Video/Board Games",
-      "Books and Music"
-    ]
-  }],
+  "interests": [
+    "FinTech",
+    "Financial Markets",
+    "Software Architecture",
+    "Backend Engineering"
+  ],
   "references": [],
-  "projects": [
-    {
-      "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "summary": "Summary...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    }
-  ]
+  "projects": []
 }
