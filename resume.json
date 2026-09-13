@@ -1,16 +1,16 @@
 {
   "meta": {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "lastModified": "2026-09"
   },
   "basics": {
     "name": "Erfan Eivazi",
-    "label": "Senior Software Engineer | Backend Developer",
+    "label": "Senior Software Engineer",
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
     "phone": "",
     "website": "eerFun.github.io",
-    "summary": "Senior Software Engineer with 8+ years of experience in backend-oriented software development and web-based information systems.\nExperienced in designing and maintaining enterprise applications, improving code quality, refactoring legacy systems, and contributing across the SDLC in Agile/Scrum environments.\nStrong background in .NET/C#, Node.js, software architecture, databases, GIS, data processing, and enterprise web applications, with additional experience in DevOps and fintech-related projects.",
+    "summary": "Senior Software Engineer with 8+ years of experience building and evolving backend-oriented enterprise systems and web applications.\nStrong background in C#/.NET and Node.js, with a focus on software architecture, clean code, refactoring, maintainability, and API-driven systems.\nExperienced across the full SDLC in Agile/Scrum teams, with hands-on expertise in GIS, data-intensive applications, distributed systems, and DevOps collaboration.",
     "profiles": [
       {
         "network": "Github",
@@ -21,11 +21,6 @@
         "network": "LinkedIn",
         "username": "eerFun",
         "url": "https://www.linkedin.com/in/eerfun"
-      },
-      {
-        "network": "Telegram",
-        "username": "eerFun",
-        "url": "https://t.me/eerFun"
       }
     ]
   },
@@ -36,15 +31,14 @@
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
-      "summary": "Engineering software and information systems company serving the gas industry.",
+      "summary": "Engineering software company developing web-based systems for gas network simulation, forecasting, monitoring, and analysis.",
       "highlights": [
-        "Developed and maintained backend systems for gas network simulation, gas consumption forecasting, and transmission network monitoring for the National Iranian Gas Company.",
-        "Designed and implemented backend services using C#/.NET with Clean Architecture and CQRS, while contributing to microservices and asynchronous processing using NestJS, RabbitMQ, and TypeORM.",
-        "Participated in requirements analysis, system design, code reviews, technical debt management, and continuous refactoring to improve maintainability and extensibility.",
-        "Developed GIS infrastructure and geospatial data workflows using OGC standards, WFS, WMS, TMS, OpenLayers, and GeoServer.",
-        "Built data processing, web scraping, dynamic reporting, QueryBuilder, and Excel-based reporting solutions.",
-        "Contributed to frontend development and DevOps workflows in Agile/Scrum teams, including CI/CD support and mentoring.",
-        "Techs: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | NestJS | RabbitMQ | Angular | GIS | OGC | GeoServer | Azure DevOps"
+        "Developed backend systems for gas network simulation, gas consumption forecasting, and transmission-network monitoring for the National Iranian Gas Company.",
+        "Designed and evolved backend services using C#/.NET, applying Clean Architecture, CQRS, microservices, and asynchronous messaging with RabbitMQ.",
+        "Improved long-term maintainability through code reviews, Clean Code practices, technical-debt management, and continuous refactoring, including architectural redesign of core packages.",
+        "Built GIS and data-processing solutions using OGC standards, WFS/WMS/TMS, OpenLayers, GeoServer, web scraping, dynamic QueryBuilder-based reporting, and Excel automation.",
+        "Contributed across the SDLC in Agile/Scrum teams, including requirements analysis, technical design, frontend collaboration, DevOps support, knowledge sharing, and mentoring.",
+        "Techs: C# | .NET Core | SQL Server | Microservices | NestJS | Angular | GIS"
       ]
     },
     {
@@ -55,10 +49,10 @@
       "endDate": "2021-11",
       "summary": "Web and software solutions company.",
       "highlights": [
-        "Designed and developed ParadiseHub, a multi-branch CRM and workspace management platform with 11 user roles, workspace rental, reservations, online payments, wallet payments, financial reporting, and multi-stage application workflows.",
-        "Built advanced search and query-building functionality over Elasticsearch for large volumes of unstructured data.",
-        "Contributed as a Backend Developer to HR and recruitment platforms, a job-search engine, and mobile applications.",
-        "Techs: JavaScript | Node.js | Express.js | Angular | MongoDB | Elasticsearch"
+        "Designed and developed ParadiseHub, a multi-branch CRM and workspace management platform supporting 11 user roles, rental plans, reservations, online payments, wallet transactions, financial reporting, and multi-stage application workflows.",
+        "Built advanced query-building and search capabilities over Elasticsearch for large volumes of unstructured and filtered data.",
+        "Contributed as a Backend Developer to HR and recruitment platforms, including IranHR and a job-search engine, as well as mobile application projects.",
+        "Techs: JavaScript | Node.js | Express.js | MongoDB | Elasticsearch"
       ]
     },
     {
@@ -69,7 +63,7 @@
       "endDate": "2018-06",
       "summary": "Web development coding bootcamp.",
       "highlights": [
-        "Built a web scraping application collecting job postings from three major Iranian job websites and developed a job search engine with filtering capabilities.",
+        "Built a web-scraping pipeline to collect job postings from three major Iranian job websites and developed a searchable job-search application.",
         "Ranked first in the bootcamp and was invited to join FuTech Group as a software developer.",
         "Techs: HTML | CSS | JavaScript | Node.js | Express.js | MySQL | Git"
       ]
@@ -77,15 +71,13 @@
     {
       "company": "Freelance",
       "position": "Embedded Systems & Software Developer",
-      "website": "",
+      "website": "https://en.wikipedia.org/wiki/Freelancer",
       "startDate": "2017-01",
       "endDate": "2018-01",
-      "summary": "Freelance embedded systems and software-hardware integration projects.",
+      "summary": "Embedded systems and software-hardware integration projects.",
       "highlights": [
-        "Developed embedded control software for an interactive Smart Wall installation.",
-        "Enhanced radiation monitoring software to support multiple detectors and configurable alarm control.",
-        "Designed and implemented software and hardware prototypes for access control, silo monitoring, and automatic parking-gate control.",
-        "Techs: C | C# | AVR | Arduino | Windows Forms | RS-232 | Embedded Systems"
+        "Developed control and monitoring software for interactive installations, radiation-monitoring systems, access-control prototypes, and automated parking-gate systems.",
+        "Worked across embedded programming, hardware communication, sensor integration, real-time monitoring, and software UI development using C, C#, AVR, Arduino, Windows Forms, and RS-232."
       ]
     }
   ],
@@ -98,6 +90,14 @@
       "studyType": "Bachelor of Science (B.Sc.)",
       "startDate": "2013-09",
       "endDate": "2018-01"
+    },
+    {
+      "institution": "Allameh Helli 4 High School (NODET)",
+      "url": "https://www.helli4.ir/",
+      "area": "Mathematics and Physics",
+      "studyType": "Diploma",
+      "startDate": "2009-09",
+      "endDate": "2013-06"
     }
   ],
   "awards": [],
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "name": "Software Architecture & Engineering",
+      "name": "Architecture & Software Engineering",
       "keywords": [
         "Clean Architecture",
         "CQRS",
@@ -125,14 +125,14 @@
         "System Design",
         "Code Review",
         "Refactoring",
+        "Technical Debt",
         "SDLC",
         "Agile",
-        "Scrum",
-        "Technical Debt"
+        "Scrum"
       ]
     },
     {
-      "name": "Databases & Data",
+      "name": "Data & Infrastructure",
       "keywords": [
         "SQL Server",
         "MongoDB",
@@ -141,11 +141,13 @@
         "TypeORM",
         "Data Modeling",
         "Data Processing",
-        "Reporting"
+        "Docker",
+        "CI/CD",
+        "Azure DevOps"
       ]
     },
     {
-      "name": "GIS & DevOps",
+      "name": "GIS & Web",
       "keywords": [
         "GIS",
         "OGC",
@@ -154,19 +156,8 @@
         "TMS",
         "OpenLayers",
         "GeoServer",
-        "Azure DevOps",
-        "CI/CD"
-      ]
-    },
-    {
-      "name": "Frontend",
-      "keywords": [
         "Angular",
-        "TypeScript",
-        "JavaScript",
-        "RxJS",
-        "HTML",
-        "CSS"
+        "TypeScript"
       ]
     }
   ],
@@ -180,10 +171,7 @@
       "fluency": "Upper-intermediate"
     }
   ],
-  "interests": [
-    "FinTech",
-    "Financial Markets"
-  ],
+  "interests": [],
   "references": [],
   "projects": []
 }
