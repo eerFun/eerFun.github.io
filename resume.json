@@ -1,16 +1,16 @@
 {
   "meta": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "lastModified": "2026-09"
   },
   "basics": {
     "name": "Erfan Eivazi",
-    "label": "Senior Software Engineer | Senior Backend Engineer",
+    "label": "Software Engineer",
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
-    "phone": "",
+    "phone": "09197306342",
     "website": "eerFun.github.io",
-    "summary": "Senior Software Engineer and Senior Backend Engineer with 8+ years of experience designing, building, and evolving enterprise systems and web applications.\nStrong background in C#/.NET and Node.js, with a focus on software architecture, maintainable backend systems, clean code, refactoring, and API-driven development.\nExperienced across the full SDLC in Agile/Scrum environments, contributing technical leadership through system design, code reviews, technical debt planning, developer mentoring, knowledge sharing, and collaboration with frontend and DevOps teams.",
+    "summary": "Senior Software Engineer with 8+ years of experience building and evolving backend-oriented enterprise systems and web applications.\nStrong background in C#/.NET and Node.js, with a focus on software architecture, clean code, refactoring, maintainability, and API-driven systems.\nExperienced across the full SDLC in Agile/Scrum teams, with hands-on expertise in GIS, data-intensive applications, distributed systems, and DevOps collaboration.",
     "profiles": [
       {
         "network": "Github",
@@ -37,8 +37,8 @@
         "Design and evolve C#/.NET services using Clean Architecture, CQRS, microservices, and asynchronous messaging with RabbitMQ.",
         "Improve long-term maintainability through architectural redesign, code reviews, Clean Code practices, technical debt planning, and continuous refactoring.",
         "Build GIS, data-ingestion, and reporting solutions using OGC standards, spatial services, web scraping, dynamic QueryBuilder-based reporting, and Excel automation.",
-        "Contribute across the SDLC through requirements analysis, system design, DevOps and frontend collaboration, developer mentoring, and team knowledge sharing.",
-        "Technologies: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | RabbitMQ | NestJS | Angular | GIS"
+        "Contribute across the SDLC in Agile/Scrum teams, including requirements analysis, technical design, frontend collaboration, DevOps support, knowledge sharing, and mentoring.",
+        "Technologies: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | Angular | GIS | Docker"
       ]
     },
     {
@@ -47,9 +47,9 @@
       "website": "https://fudev.ir/",
       "startDate": "2018-06",
       "endDate": "2021-11",
-      "summary": "Software solutions company delivering business platforms, recruitment and search products, and mobile applications.",
+      "summary": "Software solutions company delivering business platforms and products.",
       "highlights": [
-        "Designed and developed ParadiseHub, a NoSQL-based, multi-branch CRM and workspace-management platform supporting 11 user roles, rental plans, reservations, online payments, wallet transactions, financial reporting, and multi-stage application workflows.",
+        "Designed and developed ParadiseHub's CRM, a NoSQL-based, multi-branch workspace-management platform supporting 11 user roles, rental plans, reservations, online payments, wallet transactions, financial reporting, and multi-stage application workflows.",
         "Built advanced Elasticsearch query-building and search capabilities for large volumes of unstructured and filtered data.",
         "Developed backend functionality for HR and recruitment platforms, including IranHR and a job-search engine, as well as data-related components for a mobile game.",
         "Technologies: JavaScript | Node.js | Express.js | MongoDB | Elasticsearch | REST APIs"
@@ -61,11 +61,11 @@
       "website": "https://maktabsharif.ir/",
       "startDate": "2018-01",
       "endDate": "2018-06",
-      "summary": "Intensive full-stack web development bootcamp focused on practical software engineering and product delivery.",
+      "summary": "Web development coding bootcamp.",
       "highlights": [
         "Built a web-scraping pipeline that collected job postings from three major Iranian employment websites and powered a searchable job-search application.",
         "Ranked first in the bootcamp and received an invitation to join FuTech Group as a Software Developer.",
-        "Technologies: HTML | CSS | JavaScript | Node.js | Express.js | MySQL | Git"
+        "Technologies: HTML | CSS | JavaScript | jQuery | Bootstrap | Node.js | MySQL | Git"
       ]
     },
     {
@@ -74,9 +74,9 @@
       "website": "https://en.wikipedia.org/wiki/Freelancer",
       "startDate": "2017-01",
       "endDate": "2018-01",
-      "summary": "Independent projects spanning embedded systems, control software, real-time monitoring, and software-hardware integration.",
+      "summary": "Embedded systems and software-hardware integration projects.",
       "highlights": [
-        "Developed control and monitoring software for interactive installations, radiation-monitoring equipment, access-control prototypes, silo-capacity monitoring, and automated parking-gate systems.",
+        "Developed control and monitoring software for interactive installations, radiation-monitoring systems, access-control prototypes, and automated parking-gate systems.",
         "Worked across embedded programming, hardware communication, sensor integration, real-time monitoring, and software UI development using C, C#, AVR, Arduino, Windows Forms, and RS-232."
       ]
     }
@@ -104,72 +104,112 @@
   "publications": [],
   "skills": [
     {
-      "name": "Software Engineering & Technical Leadership",
+      "name": "Software Engineering Practices",
       "keywords": [
-        "System Design",
-        "Requirements Analysis",
         "SDLC",
-        "Agile",
-        "Scrum",
-        "Code Review",
-        "Clean Code",
+        "Agile (Scrum)",
+        "Requirements Analysis",
+        "Business Modeling",
+        "Technical Planning",
+        "Code Quality",
         "Refactoring",
-        "Technical Debt",
-        "Developer Mentoring"
+        "Technical Debt Management",
+        "Software Testing",
+        "Documentation",
+        "Git Workflows"
       ]
     },
     {
-      "name": "Backend Engineering",
+      "name": "Software Design & Architecture",
       "keywords": [
-        "C#",
-        ".NET",
-        "ASP.NET Core",
-        "Node.js",
-        "NestJS",
-        "Express.js",
-        "REST APIs",
-        "RabbitMQ"
-      ]
-    },
-    {
-      "name": "Software Architecture",
-      "keywords": [
-        "Clean Architecture",
-        "CQRS",
-        "Microservices",
-        "Object-Oriented Design",
+        "Domain Modeling",
+        "Object-Oriented (OOD)",
+        "Event-Driven",
+        "Clean Architecture (DDD)",
+        "Layered Architecture",
+        "Service-Oriented (SOA)",
+        "Monolithic Architecture",
+        "SOLID Principles",
         "Design Patterns",
-        "API Design",
-        "Data Modeling"
+        "CQRS"
       ]
     },
     {
-      "name": "Data & Infrastructure",
+      "name": "Backend Development",
       "keywords": [
-        "SQL Server",
-        "MongoDB",
+        "C# (.NET Core)",
+        "Node.js (Express.js)",
+        "NestJS",
+        "SQL/NoSQL",
+        "Database Design",
+        "API Design",
+        "Microservices",
+        "Message Queues",
+        "RPC Services",
+        "RESTful Services",
+        "Web Socket",
+        "Authentication (JWT)",
+        "Authorization (RBAC)",
+        "Task Scheduling",
+        "Background Processing",
+        "Performance Optimization",
+        "Caching"
+      ]
+    },
+    {
+      "name": "Database & Data",
+      "keywords": [
+        "SQL Serve (EF Core)",
+        "MongoDB (Mongoose)",
         "Elasticsearch",
-        "LINQ",
+        "Redis",
         "TypeORM",
-        "Data Modeling",
-        "Data Processing",
-        "Docker",
-        "CI/CD",
-        "Azure DevOps"
+        "Relational Design",
+        "Non-relational Design",
+        "Query Optimization",
+        "Indexing",
+        "Transactions",
+        "Normalization"
       ]
     },
     {
       "name": "Frontend & GIS",
       "keywords": [
-        "GIS",
-        "OGC",
-        "WFS",
-        "WMS",
-        "TMS",
-        "OpenLayers",
-        "GeoServer",
         "Angular",
-        "TypeScript"
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "RxJS",
+        "OpenLayers",
+        "OGC Standards (WFS, WFS-T, WMS, TMS)",
+        "GeoServer"
+      ]
+    },
+    {
+      "name": "DevOps & Delivery",
+      "keywords": [
+        "Linux",
+        "Bash",
+        "Pm2",
+        "Docker",
+        "Containerization",
+        "CI/CD",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "name": "Collaboration & Technical Skills",
+      "keywords": [
+        "Code Review",
+        "Technical Planning",
+        "Task Estimation",
+        "Technical Decision-Making",
+        "Problem Solving",
+        "Driving Best Practices",
+        "Cross-Functional Collaboration",
+        "Leading Design Discussions",
+        "Knowledge Sharing",
+        "Mentoring"
       ]
     }
   ],

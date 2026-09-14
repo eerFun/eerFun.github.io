@@ -1,16 +1,16 @@
 {
   "meta": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "lastModified": "2026-09"
   },
   "basics": {
     "name": "Erfan Eivazi",
-    "label": "Senior Software Engineer | Senior Backend Engineer",
+    "label": "Software Engineer | Backend Developer",
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
     "phone": "",
     "website": "eerFun.github.io",
-    "summary": "Senior Software Engineer and Senior Backend Engineer with 8+ years of experience designing, building, and evolving enterprise software and web-based information systems.\nExperienced across the full software development lifecycle, from business process and requirements analysis through system design, implementation, delivery, and long-term evolution, with a strong focus on clean, maintainable backend architectures.\nHands-on expertise spans enterprise web applications, GIS and spatial data, data processing, dynamic reporting, automation, and financial technology projects.\nContributes technical leadership through architectural decision-making, code reviews, technical debt planning, continuous refactoring, developer mentoring, knowledge sharing, and close collaboration with technical and DevOps teams in Agile/Scrum environments.",
+    "summary": "Senior Software Engineer with 8+ years of experience designing, building, and evolving enterprise software and web-based information systems.\nExperienced across the full software development lifecycle, from business process and requirements analysis through system design, implementation, delivery, and long-term evolution, with a strong focus on clean, maintainable backend architectures.\nHands-on expertise spans enterprise web applications, GIS and spatial data, data processing, dynamic reporting, automation, and financial technology projects.\nContributes technical leadership through architectural decision-making, code reviews, technical debt planning, continuous refactoring, developer mentoring, knowledge sharing, and close collaboration with technical and DevOps teams in Agile/Scrum environments.",
     "profiles": [
       {
         "network": "Github",
@@ -49,7 +49,7 @@
         "Built a weather-data ingestion module integrating the Iran Meteorological Organization FTP service and multiple external websites through web scraping.",
         "Developed a dynamic reporting system with an advanced QueryBuilder for comparative and aggregated reports, and implemented Excel exports, template-driven report generation, and macro-enabled reporting workflows.",
         "Support DevOps and application-delivery workflows and contribute to Angular-based frontend development when cross-functional project needs require it.",
-        "Technologies: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | NestJS | TypeORM | RabbitMQ | Angular | TypeScript | RxJS | GIS | OGC Standards | OpenLayers | GeoServer | Azure DevOps | Excel"
+        "Technologies: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | TypeORM | Angular | TypeScript | RxJS | GIS | OGC Standards | OpenLayers | GeoServer | Azure DevOps | Docker"
       ]
     },
     {
@@ -60,7 +60,7 @@
       "endDate": "2021-11",
       "summary": "Software solutions company delivering business platforms, recruitment and search products, and mobile applications.",
       "highlights": [
-        "Designed and developed ParadiseHub, a multi-branch CRM and workspace-management platform built on a fully NoSQL data model and supporting 11 distinct user roles.",
+        "Designed and developed ParadiseHub's CRM, a multi-branch workspace-management platform built on a fully NoSQL data model and supporting 11 distinct user roles.",
         "Modeled and implemented branch-specific rental plans for shared and dedicated offices, desks, and seats, including online rental and renewal workflows with payment-gateway integration.",
         "Built management and reservation workflows for meeting rooms and conference halls, along with configurable service sales and wallet-based purchases for branch-specific member offerings.",
         "Delivered financial-management capabilities covering discounts, sales reporting, and invoice administration, as well as proposal-submission and multi-stage application workflows for the company's accelerator program.",
@@ -85,24 +85,11 @@
       ]
     },
     {
-      "company": "Freelance",
-      "position": "Embedded Systems & Software Developer",
-      "website": "",
-      "startDate": "2017-01",
-      "endDate": "2018-01",
-      "summary": "Independent engineering projects focused on embedded control, monitoring, and software-hardware integration.",
-      "highlights": [
-        "Designed and implemented a prototype access-control and silo-capacity monitoring system, including its software user interface.",
-        "Designed and built a timer-based parking-gate control circuit with automatic closing, vehicle detection, and obstacle detection.",
-        "Technologies: C | C# | AVR | Arduino | Windows Forms | Serial Communication | RS-232 | Sensors | Servo Motors | LED Control"
-      ]
-    },
-    {
       "company": "Kinetic Fabrication Studio",
       "position": "Embedded Systems Programmer",
       "website": "https://kfabstudio.ir/",
-      "startDate": "2017-01",
-      "endDate": "2017-12",
+      "startDate": "2017-10",
+      "endDate": "2018-01",
       "summary": "Architecture and technology studio specializing in interactive installations and technology-driven advertising structures.",
       "highlights": [
         "Developed control software for an interactive Smart Wall installation that used sensors to detect pedestrians and coordinate kinetic and lighting effects.",
@@ -115,7 +102,7 @@
       "company": "Parto Tajhiz Besat",
       "position": "Software Developer",
       "website": "http://www.rghp.ir/",
-      "startDate": "2017-01",
+      "startDate": "2017-06",
       "endDate": "2017-10",
       "summary": "Manufacturer of radiometric measurement instruments and radiation-monitoring systems.",
       "highlights": [
@@ -123,6 +110,19 @@
         "Implemented configurable radiation-alarm thresholds and a software interface for transmitting control commands to the hardware panel.",
         "Developed software-hardware communication and real-time monitoring interfaces, streamlining the operator workflow by moving alarm configuration into the application and eliminating the need for direct hardware-panel access.",
         "Technologies: C# | Windows Forms | USB | Serial Communication | RS-232"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Embedded Systems & Software Developer",
+      "website": "https://en.wikipedia.org/wiki/Freelancer",
+      "startDate": "2017-01",
+      "endDate": "2017-06",
+      "summary": "Independent engineering projects focused on embedded control, monitoring, and software-hardware integration.",
+      "highlights": [
+        "Designed and implemented a prototype access-control and silo-capacity monitoring system, including its software user interface.",
+        "Designed and built a timer-based parking-gate control circuit with automatic closing, vehicle detection, and obstacle detection.",
+        "Technologies: C | C# | AVR | Arduino | Windows Forms | Serial Communication | RS-232 | Sensors | Servo Motors | LED Control"
       ]
     }
   ],
@@ -153,107 +153,112 @@
   "publications": [],
   "skills": [
     {
-      "name": "Software Engineering & Technical Leadership",
+      "name": "Software Engineering Practices",
       "keywords": [
         "SDLC",
-        "Agile",
-        "Scrum",
+        "Agile (Scrum)",
         "Requirements Analysis",
-        "Code Review",
-        "Clean Code",
+        "Business Modeling",
+        "Technical Planning",
+        "Code Quality",
         "Refactoring",
-        "Technical Debt",
-        "Developer Mentoring",
-        "Knowledge Sharing",
-        "Git"
-      ]
-    },
-    {
-      "name": "Backend Engineering",
-      "keywords": [
-        "C#",
-        ".NET",
-        "ASP.NET Core",
-        "Node.js",
-        "NestJS",
-        "Express.js",
-        "REST APIs",
-        "RabbitMQ",
-        "Backend Architecture"
+        "Technical Debt Management",
+        "Software Testing",
+        "Documentation",
+        "Git Workflows"
       ]
     },
     {
       "name": "Software Design & Architecture",
       "keywords": [
-        "System Design",
-        "Object-Oriented Design",
-        "Clean Architecture",
-        "CQRS",
+        "Domain Modeling",
+        "Object-Oriented (OOD)",
+        "Event-Driven",
+        "Clean Architecture (DDD)",
+        "Layered Architecture",
+        "Service-Oriented (SOA)",
+        "Monolithic Architecture",
+        "SOLID Principles",
         "Design Patterns",
-        "API Design",
-        "Data Modeling",
-        "Microservices",
-        "Long-Term System Evolution"
+        "CQRS"
       ]
     },
     {
-      "name": "Databases & Data",
+      "name": "Backend Development",
       "keywords": [
-        "SQL Server",
-        "MongoDB",
-        "Elasticsearch",
-        "TypeORM",
-        "LINQ",
-        "Query Building",
-        "Data Processing",
-        "Reporting"
+        "C# (.NET Core)",
+        "Node.js (Express.js)",
+        "NestJS",
+        "SQL/NoSQL",
+        "Database Design",
+        "API Design",
+        "Microservices",
+        "Message Queues",
+        "RPC Services",
+        "RESTful Services",
+        "Web Socket",
+        "Authentication (JWT)",
+        "Authorization (RBAC)",
+        "Task Scheduling",
+        "Background Processing",
+        "Performance Optimization",
+        "Caching"
       ]
     },
     {
-      "name": "Frontend Development",
+      "name": "Database & Data",
+      "keywords": [
+        "SQL Serve (EF Core)",
+        "MongoDB (Mongoose)",
+        "Elasticsearch",
+        "Redis",
+        "TypeORM",
+        "Relational Design",
+        "Non-relational Design",
+        "Query Optimization",
+        "Indexing",
+        "Transactions",
+        "Normalization"
+      ]
+    },
+    {
+      "name": "Frontend & GIS",
       "keywords": [
         "Angular",
         "TypeScript",
         "JavaScript",
+        "Tailwind CSS",
         "RxJS",
-        "HTML",
-        "CSS"
-      ]
-    },
-    {
-      "name": "GIS & Spatial Data",
-      "keywords": [
-        "GIS",
-        "OGC Standards",
-        "WFS",
-        "WMS",
-        "TMS",
         "OpenLayers",
-        "GeoServer",
-        "Spatial Data Validation"
+        "OGC Standards (WFS, WFS-T, WMS, TMS)",
+        "GeoServer"
       ]
     },
     {
       "name": "DevOps & Delivery",
       "keywords": [
-        "CI/CD",
+        "Linux",
+        "Bash",
+        "Pm2",
         "Docker",
-        "Azure DevOps",
-        "Deployment Support",
-        "Environment Configuration",
-        "DevOps Collaboration",
-        "Application Delivery"
+        "Containerization",
+        "CI/CD",
+        "Azure DevOps"
       ]
     },
     {
-      "name": "Other Technical Skills",
+      "name": "Collaboration & Technical Skills",
       "keywords": [
-        "Web Scraping",
-        "Excel Reporting",
-        "Excel Templates",
-        "Excel Macros",
-        "Embedded Systems",
-        "Serial Communication"
+        "Code Review",
+        "Technical Planning",
+        "Task Estimation",
+        "Technical Decision-Making",
+        "Problem Solving",
+        "Driving Best Practices",
+        "Cross-Functional Collaboration",
+        "Leading Design Discussions",
+        "Knowledge Sharing",
+        "Mentoring"
       ]
     }
   ],
@@ -267,12 +272,7 @@
       "fluency": "Upper-intermediate"
     }
   ],
-  "interests": [
-    "FinTech",
-    "Financial Markets",
-    "Software Architecture",
-    "Backend Engineering"
-  ],
+  "interests": [],
   "references": [],
   "projects": []
 }
