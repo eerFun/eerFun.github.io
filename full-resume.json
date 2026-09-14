@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "lastModified": "2026-09"
   },
   "basics": {
@@ -49,7 +49,7 @@
         "Built a weather-data ingestion module integrating the Iran Meteorological Organization FTP service and multiple external websites through web scraping.",
         "Developed a dynamic reporting system with an advanced QueryBuilder for comparative and aggregated reports, and implemented Excel exports, template-driven report generation, and macro-enabled reporting workflows.",
         "Support DevOps and application-delivery workflows and contribute to Angular-based frontend development when cross-functional project needs require it.",
-        "Technologies: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | TypeORM | Angular | TypeScript | RxJS | GIS | OGC Standards | OpenLayers | GeoServer | Azure DevOps | Docker"
+        "Technologies: C# | .NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | TypeORM | Angular | TypeScript | RxJS | GIS | OGC Standards | OpenLayers | GeoServer | Azure DevOps | Docker"
       ]
     },
     {
@@ -161,7 +161,6 @@
         "Business Modeling",
         "Technical Planning",
         "Code Quality",
-        "Refactoring",
         "Technical Debt Management",
         "Software Testing",
         "Documentation",
@@ -250,7 +249,7 @@
       "name": "Collaboration & Technical Skills",
       "keywords": [
         "Code Review",
-        "Technical Planning",
+        "Refactoring",
         "Task Estimation",
         "Technical Decision-Making",
         "Problem Solving",

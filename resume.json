@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "lastModified": "2026-09"
   },
   "basics": {
@@ -9,7 +9,7 @@
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
     "phone": "09197306342",
-    "website": "eerFun.github.io",
+    "website": "eerFun.github.io/full-resume",
     "summary": "Senior Software Engineer with 8+ years of experience building and evolving backend-oriented enterprise systems and web applications.\nStrong background in C#/.NET and Node.js, with a focus on software architecture, clean code, refactoring, maintainability, and API-driven systems.\nExperienced across the full SDLC in Agile/Scrum teams, with hands-on expertise in GIS, data-intensive applications, distributed systems, and DevOps collaboration.",
     "profiles": [
       {
@@ -38,7 +38,7 @@
         "Improve long-term maintainability through architectural redesign, code reviews, Clean Code practices, technical debt planning, and continuous refactoring.",
         "Build GIS, data-ingestion, and reporting solutions using OGC standards, spatial services, web scraping, dynamic QueryBuilder-based reporting, and Excel automation.",
         "Contribute across the SDLC in Agile/Scrum teams, including requirements analysis, technical design, frontend collaboration, DevOps support, knowledge sharing, and mentoring.",
-        "Technologies: C# | .NET | ASP.NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | Angular | GIS | Docker"
+        "Technologies: C# | .NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | Angular | GIS | Docker"
       ]
     },
     {
@@ -66,18 +66,6 @@
         "Built a web-scraping pipeline that collected job postings from three major Iranian employment websites and powered a searchable job-search application.",
         "Ranked first in the bootcamp and received an invitation to join FuTech Group as a Software Developer.",
         "Technologies: HTML | CSS | JavaScript | jQuery | Bootstrap | Node.js | MySQL | Git"
-      ]
-    },
-    {
-      "company": "Freelance",
-      "position": "Embedded Systems & Software Developer",
-      "website": "https://en.wikipedia.org/wiki/Freelancer",
-      "startDate": "2017-01",
-      "endDate": "2018-01",
-      "summary": "Embedded systems and software-hardware integration projects.",
-      "highlights": [
-        "Developed control and monitoring software for interactive installations, radiation-monitoring systems, access-control prototypes, and automated parking-gate systems.",
-        "Worked across embedded programming, hardware communication, sensor integration, real-time monitoring, and software UI development using C, C#, AVR, Arduino, Windows Forms, and RS-232."
       ]
     }
   ],
@@ -112,10 +100,8 @@
         "Business Modeling",
         "Technical Planning",
         "Code Quality",
-        "Refactoring",
         "Technical Debt Management",
         "Software Testing",
-        "Documentation",
         "Git Workflows"
       ]
     },
@@ -126,12 +112,10 @@
         "Object-Oriented (OOD)",
         "Event-Driven",
         "Clean Architecture (DDD)",
-        "Layered Architecture",
-        "Service-Oriented (SOA)",
-        "Monolithic Architecture",
+        "3-Tier Architecture",
         "SOLID Principles",
         "Design Patterns",
-        "CQRS"
+        "CQRS Pattern"
       ]
     },
     {
@@ -176,12 +160,11 @@
       "name": "Frontend & GIS",
       "keywords": [
         "Angular",
-        "TypeScript",
-        "JavaScript",
+        "JS/TS",
         "Tailwind CSS",
         "RxJS",
         "OpenLayers",
-        "OGC Standards (WFS, WFS-T, WMS, TMS)",
+        "OGC Standards",
         "GeoServer"
       ]
     },
@@ -201,13 +184,11 @@
       "name": "Collaboration & Technical Skills",
       "keywords": [
         "Code Review",
-        "Technical Planning",
+        "Refactoring",
         "Task Estimation",
         "Technical Decision-Making",
-        "Problem Solving",
         "Driving Best Practices",
         "Cross-Functional Collaboration",
-        "Leading Design Discussions",
         "Knowledge Sharing",
         "Mentoring"
       ]
