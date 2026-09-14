@@ -1,16 +1,16 @@
 {
   "meta": {
-    "version": "1.3.0",
-    "lastModified": "2023-05"
+    "version": "1.5.2",
+    "lastModified": "2026-09"
   },
   "basics": {
     "name": "Erfan Eivazi",
-    "label": "Web Developer and Technical Adviser",
+    "label": "Software Engineer",
     "picture": "/me-small.jpg",
     "email": "eivazi.erfan@gmail.com",
-    "phone": "",
-    "website": "eerFun.github.io",
-    "summary": "A Web Developer and Software Engineer",
+    "phone": "09197306342",
+    "website": "eerFun.github.io/full-resume",
+    "summary": "Senior Software Engineer with 8+ years of experience building and evolving backend-oriented enterprise systems and web applications.\nStrong background in C#/.NET and Node.js, with a focus on software architecture, clean code, refactoring, maintainability, and API-driven systems.\nExperienced across the full SDLC in Agile/Scrum teams, with hands-on expertise in GIS, data-intensive applications, distributed systems, and DevOps collaboration.",
     "profiles": [
       {
         "network": "Github",
@@ -20,63 +20,52 @@
       {
         "network": "LinkedIn",
         "username": "eerFun",
-        "url": "https://www.linkedin.com/in/eerfun/"
-      },
-      {
-        "network": "Telegram",
-        "username": "eerFun",
-        "url": "https://t.me/eerFun"
+        "url": "https://www.linkedin.com/in/eerfun"
       }
     ]
   },
   "work": [
     {
-      "company": "Intelligent Petro Processors",
-      "position": "Senior Web Developer",
+      "company": "Intelligent Petro Processors (INPROC)",
+      "position": "Senior Software Engineer",
       "website": "https://inproc.ir/",
       "startDate": "2021-11",
       "endDate": "present",
-      "summary": "I mostly work on server-side development in GPNet5 project which is a Web-based GIS engineering software for designing, analyzing and simulating gas pipelines networks",
-      "highlights": [".Net 5+ | C# 9+ | Clean Architecture | CQRS Pattern | Dependency Injection | MSSQL Server | LINQ | Microservices | RabbitMQ | TypeScript | NestJS | TypeORM | Angular 9+ | RxJS | Kendo UI | OpenLayers | GIS | OGC Standards (WFS, WMS, WMTS) | TMS | XYZ tiles | GeoServer | Swagger UI | Azure DevOps"]
-    },
-    {
-      "company": "FuDev Group (formerly FuTech Group)",
-      "position": "Co-founder & Backend Developer",
-      "website": "https://fudev.ir/",
-      "startDate": "2018-06",
-      "endDate": "2021-11",
-      "summary": "I worked as a backend developer in IranHR project team, an architecture designer and developer of Paradise-Hub CRM project, and a team director in some small projects",
-      "highlights": ["Node.js | Express | MongoDB | Elasticsearch | Socket.IO | Session-Cookie | JWT | Chat-System | Ticketing-System | Reservation | Payment | Role-Based Authorization"]
-    },
-    {
-      "company": "Maktab Sharif",
-      "position": "Bootcamp Attendee",
-      "website": "https://maktabsharif.ir/",
-      "startDate": "2018-01",
-      "endDate": "2018-06",
-      "summary": "A Full Stack Web Development Bootcamp",
-      "highlights": ["HTML5 | CSS3 | JavaScript | jQuery | Bootstrap | AngularJS | Node.js | Express | EJS | MongoDB | MySQL | Git"]
-    },
-    {
-      "company": "Kinetic Fabrication Studio",
-      "position": "Embedded System Programmer",
-      "website": "https://kfabstudio.ir/",
-      "startDate": "2017-10",
-      "endDate": "2017-12",
-      "summary": "I programmed a Smart Wall which was made the plates tracking the people moving in front of it",
+      "summary": "Engineering software company delivering enterprise systems for gas network simulation, forecasting, monitoring, analysis, and operational data management.",
       "highlights": [
-        "C | AVR | Arduino | IR-Sensor | Servo-Motors | LED-lighting"
+        "Engineer backend systems for gas network simulation, consumption forecasting, and transmission-network monitoring across multiple projects for the National Iranian Gas Company.",
+        "Design and evolve C#/.NET services using Clean Architecture, CQRS, microservices, and asynchronous messaging with RabbitMQ.",
+        "Improve long-term maintainability through architectural redesign, code reviews, Clean Code practices, technical debt planning, and continuous refactoring.",
+        "Build GIS, data-ingestion, and reporting solutions using OGC standards, spatial services, web scraping, dynamic QueryBuilder-based reporting, and Excel automation.",
+        "Contribute across the SDLC in Agile/Scrum teams, including requirements analysis, technical design, frontend collaboration, DevOps support, knowledge sharing, and mentoring.",
+        "Technologies: C# | .NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | Angular | GIS | Docker"
       ]
     },
     {
-      "company": "Parto Tajhiz Besat",
-      "position": "Software Developer",
-      "website": "http://www.rghp.ir/",
-      "startDate": "2017-06",
-      "endDate": "2017-08",
-      "summary": "I added some monitoring and controlling features for their control system software",
+      "company": "Future Technology (FuTech) Group",
+      "position": "Software Developer | Backend Engineer",
+      "website": "https://fudev.ir/",
+      "startDate": "2018-06",
+      "endDate": "2021-11",
+      "summary": "Software solutions company delivering business platforms and products.",
       "highlights": [
-        "C# | .Net Framework | Windows Forms | USB-Port | USART | RS-232"
+        "Designed and developed ParadiseHub's CRM, a NoSQL-based, multi-branch workspace-management platform supporting 11 user roles, rental plans, reservations, online payments, wallet transactions, financial reporting, and multi-stage application workflows.",
+        "Built advanced Elasticsearch query-building and search capabilities for large volumes of unstructured and filtered data.",
+        "Developed backend functionality for HR and recruitment platforms, including IranHR and a job-search engine, as well as data-related components for a mobile game.",
+        "Technologies: JavaScript | Node.js | Express.js | MongoDB | Elasticsearch | REST APIs"
+      ]
+    },
+    {
+      "company": "Maktab Sharif",
+      "position": "Full Stack Web Development Trainee",
+      "website": "https://maktabsharif.ir/",
+      "startDate": "2018-01",
+      "endDate": "2018-06",
+      "summary": "Web development coding bootcamp.",
+      "highlights": [
+        "Built a web-scraping pipeline that collected job postings from three major Iranian employment websites and powered a searchable job-search application.",
+        "Ranked first in the bootcamp and received an invitation to join FuTech Group as a Software Developer.",
+        "Technologies: HTML | CSS | JavaScript | jQuery | Bootstrap | Node.js | MySQL | Git"
       ]
     }
   ],
@@ -85,14 +74,14 @@
     {
       "institution": "Shahrood University of Technology",
       "url": "https://shahroodut.ac.ir/en/",
-      "area": "Robotics Engineering",
-      "studyType": "Bachelor's Degree (BE)",
+      "area": "Mechatronics and Robotics Engineering",
+      "studyType": "Bachelor of Science (B.Sc.)",
       "startDate": "2013-09",
       "endDate": "2018-01"
     },
     {
       "institution": "Allameh Helli 4 High School (NODET)",
-      "url": "https://institution.com/",
+      "url": "https://www.helli4.ir/",
       "area": "Mathematics and Physics",
       "studyType": "Diploma",
       "startDate": "2009-09",
@@ -103,111 +92,105 @@
   "publications": [],
   "skills": [
     {
+      "name": "Software Engineering Practices",
+      "keywords": [
+        "SDLC",
+        "Agile (Scrum)",
+        "Requirements Analysis",
+        "Business Modeling",
+        "Technical Planning",
+        "Code Quality",
+        "Technical Debt Management",
+        "Software Testing",
+        "Git Workflows"
+      ]
+    },
+    {
+      "name": "Software Design & Architecture",
+      "keywords": [
+        "Domain Modeling",
+        "Object-Oriented (OOD)",
+        "Event-Driven",
+        "Clean Architecture (DDD)",
+        "3-Tier Architecture",
+        "SOLID Principles",
+        "Design Patterns",
+        "CQRS Pattern"
+      ]
+    },
+    {
       "name": "Backend Development",
-      "level": "Expert",
       "keywords": [
-        "Node.js",
-        "Express",
+        "C# (.NET Core)",
+        "Node.js (Express.js)",
         "NestJS",
-        ".Net 5+",
-        "C# 9+",
-        "RESTful APIs",
-        "Web Socket",
-        "EJS",
-        "Middleware",
-        "JWT Authentication",
-        "Session-Cookie Authentication",
-        "Role-Based Authorization (RBAC)",
-        "Passport",
-        "RabbitMQ",
-        "CQRS Pattern",
-        "Dependency Injection",
+        "SQL/NoSQL",
+        "Database Design",
+        "API Design",
         "Microservices",
-        "Clean Architecture",
-        "Onion Architecture"
+        "Message Queues",
+        "RPC Services",
+        "RESTful Services",
+        "Web Socket",
+        "Authentication (JWT)",
+        "Authorization (RBAC)",
+        "Task Scheduling",
+        "Background Processing",
+        "Performance Optimization",
+        "Caching"
       ]
     },
     {
-      "name": "Frontend Development",
-      "level": "Proficient",
+      "name": "Database & Data",
       "keywords": [
-        "HTML5",
-        "CSS3",
-        "JavaScript ES6+",
-        "TypeScript",
-        "Angular 9+",
-        "Bootstrap",
-        "RxJS",
-        "Kendo UI",
-        "jQuery",
-        "SCSS",
-        "Responsive Web Design",
-        "Flexbox",
-        "CSS Grid",
-        "CSS Animations"
-      ]
-    },
-    {
-      "name": "Database",
-      "level": "Competent",
-      "keywords": [
-        "MongoDB",
-        "Mongoose",
-        "MySQL",
-        "MSSQL Server",
-        "SQL",
-        "LINQ",
-        "TypeORM",
+        "SQL Serve (EF Core)",
+        "MongoDB (Mongoose)",
         "Elasticsearch",
         "Redis",
-        "phpMyAdmin",
-        "Workbench",
-        "ERD",
-        "Database Design"
+        "TypeORM",
+        "Relational Design",
+        "Non-relational Design",
+        "Query Optimization",
+        "Indexing",
+        "Transactions",
+        "Normalization"
       ]
     },
     {
-      "name": "DevOps",
-      "level": "Advanced Beginner",
+      "name": "Frontend & GIS",
       "keywords": [
-        "Git",
-        "npm",
-        "yarn",
-        "Jira",
-        "Azure DevOps",
-        "Trello",
-        "Slack",
-        "PM2",
-        "Linux Terminal",
-        "Ubuntu",
+        "Angular",
+        "JS/TS",
+        "Tailwind CSS",
+        "RxJS",
+        "OpenLayers",
+        "OGC Standards",
+        "GeoServer"
+      ]
+    },
+    {
+      "name": "DevOps & Delivery",
+      "keywords": [
+        "Linux",
+        "Bash",
+        "Pm2",
         "Docker",
-        "VMware",
-        "Nginx",
-        "Apache HTTP Server",
-        "Microsoft IIS",
-        "XAMPP"
+        "Containerization",
+        "CI/CD",
+        "Azure DevOps"
       ]
     },
     {
-      "name": "Programming",
-      "level": "competent",
+      "name": "Collaboration & Technical Skills",
       "keywords": [
-        "C/C++",
-        "C#",
-        "Java",
-        "MFC",
-        "DLL",
-        "Object-Oriented Programming",
-        "Functional Programming",
-        "Matlab",
-        "Python",
-        "AVR",
-        "ATMega32",
-        "ESP8266",
-        "Arduino",
-        "Raspberry Pi",
-        "PLC Siemens S7 300",
-        "VHDL (FPGA)"
+        "Code Review",
+        "Refactoring",
+        "Task Estimation",
+        "Technical Decision-Making",
+        "Driving Best Practices",
+        "Cross-Functional Collaboration",
+        "Knowledge Sharing",
+        "Mentoring"
       ]
     }
   ],
@@ -218,11 +201,10 @@
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Upper-intermediate"
     }
   ],
   "interests": [],
   "references": [],
-  "projects": [
-  ]
+  "projects": []
 }

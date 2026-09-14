@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "version": "1.5.2",
+    "lastModified": "2026-09"
+  },
+  "basics": {
+    "name": "Erfan Eivazi",
+    "label": "Software Engineer | Backend Developer",
+    "picture": "/me-small.jpg",
+    "email": "eivazi.erfan@gmail.com",
+    "phone": "",
+    "website": "eerFun.github.io",
+    "summary": "Senior Software Engineer with 8+ years of experience designing, building, and evolving enterprise software and web-based information systems.\nExperienced across the full software development lifecycle, from business process and requirements analysis through system design, implementation, delivery, and long-term evolution, with a strong focus on clean, maintainable backend architectures.\nHands-on expertise spans enterprise web applications, GIS and spatial data, data processing, dynamic reporting, automation, and financial technology projects.\nContributes technical leadership through architectural decision-making, code reviews, technical debt planning, continuous refactoring, developer mentoring, knowledge sharing, and close collaboration with technical and DevOps teams in Agile/Scrum environments.",
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "eerFun",
+        "url": "https://github.com/eerFun"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "eerFun",
+        "url": "https://www.linkedin.com/in/eerfun"
+      },
+      {
+        "network": "Telegram",
+        "username": "eerFun",
+        "url": "https://t.me/eerFun"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Intelligent Petro Processors (INPROC)",
+      "position": "Senior Software Engineer",
+      "website": "https://inproc.ir/",
+      "startDate": "2021-11",
+      "endDate": "present",
+      "summary": "Engineering software and information systems company delivering enterprise web platforms for gas network simulation, forecasting, monitoring, analysis, and operational data management.",
+      "highlights": [
+        "Serve as a Senior Software Engineer and Backend Developer across multiple enterprise projects for the National Iranian Gas Company, including gas network simulation, consumption forecasting, and transmission network monitoring systems.",
+        "Contribute throughout the full SDLC in an Agile/Scrum environment, collaborating with the technical lead on requirements analysis and system design and translating complex operational needs into maintainable software solutions.",
+        "Provide technical leadership through code reviews, Clean Code practices, developer mentoring, knowledge sharing, and efforts to strengthen collaboration across the development team.",
+        "Plan and manage technical debt through continuous refactoring, including redesigning the BackgroundTasks and InprocCore packages with Clean Architecture principles to improve separation of concerns, extensibility, and long-term maintainability.",
+        "Designed and developed the backend of the SGN gas network simulation platform, enabling static and dynamic pressure-flow analysis for gas distribution engineers and analysts.",
+        "Contributed to a gas consumption forecasting system that analyzes historical consumption data and temperature variations to support gas-demand analysis.",
+        "Developed a logsheet data-entry and monitoring system for station and control-valve data, emergency events, and operational reporting across the gas transmission network.",
+        "Designed and developed an OGC-compliant GIS Server providing WFS, TMS, and WMS services, along with five tools for validating and cleansing geographic data in accordance with GIS-Ready guidelines.",
+        "Built a weather-data ingestion module integrating the Iran Meteorological Organization FTP service and multiple external websites through web scraping.",
+        "Developed a dynamic reporting system with an advanced QueryBuilder for comparative and aggregated reports, and implemented Excel exports, template-driven report generation, and macro-enabled reporting workflows.",
+        "Support DevOps and application-delivery workflows and contribute to Angular-based frontend development when cross-functional project needs require it.",
+        "Technologies: C# | .NET Core | SQL Server | Clean Architecture | CQRS | Microservices | gRPC | RabbitMQ | NestJS | TypeORM | Angular | TypeScript | RxJS | GIS | OGC Standards | OpenLayers | GeoServer | Azure DevOps | Docker"
+      ]
+    },
+    {
+      "company": "Future Technology (FuTech) Group",
+      "position": "Software Developer | Backend Engineer",
+      "website": "https://fudev.ir/",
+      "startDate": "2018-06",
+      "endDate": "2021-11",
+      "summary": "Software solutions company delivering business platforms, recruitment and search products, and mobile applications.",
+      "highlights": [
+        "Designed and developed ParadiseHub's CRM, a multi-branch workspace-management platform built on a fully NoSQL data model and supporting 11 distinct user roles.",
+        "Modeled and implemented branch-specific rental plans for shared and dedicated offices, desks, and seats, including online rental and renewal workflows with payment-gateway integration.",
+        "Built management and reservation workflows for meeting rooms and conference halls, along with configurable service sales and wallet-based purchases for branch-specific member offerings.",
+        "Delivered financial-management capabilities covering discounts, sales reporting, and invoice administration, as well as proposal-submission and multi-stage application workflows for the company's accelerator program.",
+        "Designed and implemented an advanced Elasticsearch query-building interface for efficiently searching large volumes of unstructured and filtered data.",
+        "Contributed as a Backend Developer to HR and recruitment products, including IranHR, a job-search engine, and other web-based platforms.",
+        "Developed backend functionality and data-related components for the mobile game \"Che-Kalameh\".",
+        "Technologies: JavaScript | Node.js | Express.js | Angular | MongoDB | Elasticsearch | REST APIs | Git"
+      ]
+    },
+    {
+      "company": "Maktab Sharif",
+      "position": "Full Stack Web Development Trainee",
+      "website": "https://maktabsharif.ir/",
+      "startDate": "2018-01",
+      "endDate": "2018-06",
+      "summary": "Intensive full-stack web development bootcamp focused on practical software engineering and product delivery.",
+      "highlights": [
+        "Built a job-market data pipeline that scraped and processed listings from three major Iranian employment websites and powered a job-search engine with search and filtering capabilities.",
+        "Applied the MEAN stack in hands-on projects while studying networking, database design, Agile methodologies, and end-to-end software delivery workflows.",
+        "Ranked first in the bootcamp and received an invitation to join FuTech Group as a Software Developer.",
+        "Technologies: HTML | CSS | JavaScript | Node.js | Express.js | MySQL | Git"
+      ]
+    },
+    {
+      "company": "Kinetic Fabrication Studio",
+      "position": "Embedded Systems Programmer",
+      "website": "https://kfabstudio.ir/",
+      "startDate": "2017-10",
+      "endDate": "2018-01",
+      "summary": "Architecture and technology studio specializing in interactive installations and technology-driven advertising structures.",
+      "highlights": [
+        "Developed control software for an interactive Smart Wall installation that used sensors to detect pedestrians and coordinate kinetic and lighting effects.",
+        "Programmed embedded controllers to orchestrate multiple actuators and LED lighting systems in response to sensor input.",
+        "Collaborated with architecture and fabrication specialists to integrate embedded software reliably with the physical installation.",
+        "Technologies: C | AVR MCU | Arduino | IR Sensors | Servo Motors | LED Lighting"
+      ]
+    },
+    {
+      "company": "Parto Tajhiz Besat",
+      "position": "Software Developer",
+      "website": "http://www.rghp.ir/",
+      "startDate": "2017-06",
+      "endDate": "2017-10",
+      "summary": "Manufacturer of radiometric measurement instruments and radiation-monitoring systems.",
+      "highlights": [
+        "Enhanced radiation-monitoring software to support the simultaneous operation of up to four connected detectors.",
+        "Implemented configurable radiation-alarm thresholds and a software interface for transmitting control commands to the hardware panel.",
+        "Developed software-hardware communication and real-time monitoring interfaces, streamlining the operator workflow by moving alarm configuration into the application and eliminating the need for direct hardware-panel access.",
+        "Technologies: C# | Windows Forms | USB | Serial Communication | RS-232"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Embedded Systems & Software Developer",
+      "website": "https://en.wikipedia.org/wiki/Freelancer",
+      "startDate": "2017-01",
+      "endDate": "2017-06",
+      "summary": "Independent engineering projects focused on embedded control, monitoring, and software-hardware integration.",
+      "highlights": [
+        "Designed and implemented a prototype access-control and silo-capacity monitoring system, including its software user interface.",
+        "Designed and built a timer-based parking-gate control circuit with automatic closing, vehicle detection, and obstacle detection.",
+        "Technologies: C | C# | AVR | Arduino | Windows Forms | Serial Communication | RS-232 | Sensors | Servo Motors | LED Control"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Shahrood University of Technology",
+      "url": "https://shahroodut.ac.ir/en/",
+      "area": "Mechatronics and Robotics Engineering",
+      "studyType": "Bachelor of Science (B.Sc.)",
+      "startDate": "2013-09",
+      "endDate": "2018-01",
+      "courses": [
+        "Programming in C",
+        "Advanced Programming in C++"
+      ]
+    },
+    {
+      "institution": "Allameh Helli 4 High School (NODET)",
+      "url": "https://www.helli4.ir/",
+      "area": "Mathematics and Physics",
+      "studyType": "Diploma",
+      "startDate": "2009-09",
+      "endDate": "2013-06"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Engineering Practices",
+      "keywords": [
+        "SDLC",
+        "Agile (Scrum)",
+        "Requirements Analysis",
+        "Business Modeling",
+        "Technical Planning",
+        "Code Quality",
+        "Technical Debt Management",
+        "Software Testing",
+        "Documentation",
+        "Git Workflows"
+      ]
+    },
+    {
+      "name": "Software Design & Architecture",
+      "keywords": [
+        "Domain Modeling",
+        "Object-Oriented (OOD)",
+        "Event-Driven",
+        "Clean Architecture (DDD)",
+        "Layered Architecture",
+        "Service-Oriented (SOA)",
+        "Monolithic Architecture",
+        "SOLID Principles",
+        "Design Patterns",
+        "CQRS"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "C# (.NET Core)",
+        "Node.js (Express.js)",
+        "NestJS",
+        "SQL/NoSQL",
+        "Database Design",
+        "API Design",
+        "Microservices",
+        "Message Queues",
+        "RPC Services",
+        "RESTful Services",
+        "Web Socket",
+        "Authentication (JWT)",
+        "Authorization (RBAC)",
+        "Task Scheduling",
+        "Background Processing",
+        "Performance Optimization",
+        "Caching"
+      ]
+    },
+    {
+      "name": "Database & Data",
+      "keywords": [
+        "SQL Serve (EF Core)",
+        "MongoDB (Mongoose)",
+        "Elasticsearch",
+        "Redis",
+        "TypeORM",
+        "Relational Design",
+        "Non-relational Design",
+        "Query Optimization",
+        "Indexing",
+        "Transactions",
+        "Normalization"
+      ]
+    },
+    {
+      "name": "Frontend & GIS",
+      "keywords": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "RxJS",
+        "OpenLayers",
+        "OGC Standards (WFS, WFS-T, WMS, TMS)",
+        "GeoServer"
+      ]
+    },
+    {
+      "name": "DevOps & Delivery",
+      "keywords": [
+        "Linux",
+        "Bash",
+        "Pm2",
+        "Docker",
+        "Containerization",
+        "CI/CD",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "name": "Collaboration & Technical Skills",
+      "keywords": [
+        "Code Review",
+        "Refactoring",
+        "Task Estimation",
+        "Technical Decision-Making",
+        "Problem Solving",
+        "Driving Best Practices",
+        "Cross-Functional Collaboration",
+        "Leading Design Discussions",
+        "Knowledge Sharing",
+        "Mentoring"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian (Farsi)",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Upper-intermediate"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

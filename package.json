@@ -1,8 +1,11 @@
 {
   "scripts": {
     "export-resume": "npx resume export -t jsonresume-theme-paper ErfanEivazi.html",
+    "export-full-resume": "npx resume export -r full-resume.json -t jsonresume-theme-paper ErfanEivazi-Full.html",
     "build-resume-win": "npm run export-resume && (echo --- & echo layout: resume & echo --- & echo.) > resume.html && type ErfanEivazi.html >> resume.html",
     "build-resume": "npm run export-resume && echo '---\nlayout: resume\n---\n' | cat - ErfanEivazi.html > resume.html",
+    "build-full-resume-win": "npm run export-full-resume && (echo --- & echo layout: resume & echo --- & echo.) > full-resume.html && type ErfanEivazi-Full.html >> full-resume.html",
+    "build-full-resume": "npm run export-full-resume && echo '---\nlayout: resume\n---\n' | cat - ErfanEivazi-Full.html > full-resume.html",
     "build": "bundle exec jekyll build",
     "start": "bundle exec jekyll serve --drafts",
     "help": "echo \"Just open `ErfanEivazi.html` file with double click, modify image address and then press `ctrl+P` to create pdf file and save it.\""
