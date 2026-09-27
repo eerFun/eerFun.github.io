@@ -11,9 +11,13 @@
     "help": "echo \"Just open `ErfanEivazi.html` file with double click, modify image address and then press `ctrl+P` to create pdf file and save it.\""
   },
   "dependencies": {
+    "@jsonresume/jsonresume-theme-consultant-polished": "^1.0.3",
     "html-pdf": "^3.0.1",
+    "jsonresume-theme-engineering": "^0.8.45",
+    "jsonresume-theme-onepage-plus": "^1.1.0",
     "jsonresume-theme-paper": "^0.5.0",
-    "resume-cli": "^3.0.7",
+    "jsonresume-theme-straightforward": "^0.5.0",
+    "resume-cli": "^3.7.3",
     "simple-jekyll-search": "^1.10.0"
   }
 }
